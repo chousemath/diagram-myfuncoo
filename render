@@ -1,7 +1,10 @@
 #!/bin/bash
 
-node diagram.js > diagram.svg
+echo "Generating the database diagram..."
+node diagram_db.js > diagram_db.svg
+node svg_to_png.js diagram_db
+
 git add .
 git commit -am "Quick save..."
 git push
-cp ./diagram.svg /Users/jo/go/src/github.com/chousemath/myfuncoo/diagram.svg
+cp ./diagram_db.svg /Users/jo/go/src/github.com/chousemath/myfuncoo/diagram_db.svg

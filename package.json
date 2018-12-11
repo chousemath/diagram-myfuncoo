@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nomnoml": "^0.2.0"
+    "nomnoml": "^0.2.0",
+    "svg2png": "^4.1.1"
   }
 }
