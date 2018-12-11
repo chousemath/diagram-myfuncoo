@@ -139,17 +139,17 @@ const User = `
 `;
 
 const Relationships = `
-[Board] p - c [BoardImage]
-[Board] p - c [BoardReply]
+[Board] -> [BoardImage]
+[Board] -> [BoardReply]
 
-[DeliveryItem] p - c [DeliveryItemOption]
+[DeliveryItem] -> [DeliveryItemOption]
 
-[ProductOption] p - c [DeliveryItemOption]
+[ProductOption] -> [DeliveryItemOption]
 
-[User] p - c [Address]
-[User] p - c [Board]
-[User] p - c [BoardReply]
-[User] p - c [Card]
+[User] -> [Address]
+[User] -> [Board]
+[User] -> [BoardReply]
+[User] -> [Card]
 `;
 
 
