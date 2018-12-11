@@ -6,7 +6,7 @@ if (process.argv.length < 3) {
   return;
 }
 
-fs.readFile(`${prcoess.argv[2]}.svg`)
+fs.readFile(`${process.argv[2]}.svg`)
     .then(svg2png)
     .then(buffer => fs.writeFile(`${prcoess.argv[2]}.png`, buffer))
     .catch(e => console.error(e));
