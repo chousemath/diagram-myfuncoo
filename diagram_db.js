@@ -130,6 +130,48 @@ const DeliveryItemOption = `
 ]
 `;
 
+const Lottery = `
+[ Lottery
+  | Status int(11)
+  | StartsAt decimal(13,3)
+  | EndsAt decimal(13,3)
+  | MinToll int(11)
+  | MaxToll int(11)
+  | MinParticipants int(11)
+  | MaxParticipants int(11)
+  | Quantity int(10)
+  | WinnerCount int(10)
+  | TollPrice int(10)
+  | ViewCount int(10)
+  | ParticipantCount int(10)
+  | TollAmount int(10)
+  | WinningTickets text
+  | ProductID int(11)
+  | ID int(11)
+  | CreatedAt decimal(13,3)
+  | UpdatedAt decimal(13,3)
+]
+`;
+
+const Payment = `
+[ Payment
+  | Category int(11)
+  | Amount decimal(10,2)
+  | TollAmount int(11)
+  | PaymentMethod int(11)
+  | Status int(11)
+  | Description text
+  | VBankName varchar(45)
+  | VBankNumber varchar(45)
+  | TransactionKey varchar(255)
+  | CardID int(11)
+  | UserID int(11)
+  | ID int(11)
+  | CreatedAt decimal(13,3)
+  | UpdatedAt decimal(13,3)
+]
+`;
+
 const Product = `
 [ Product
   | Name varchar(45)
@@ -221,11 +263,18 @@ const Relationships = `
 [Board] -> [BoardImage]
 [Board] -> [BoardReply]
 
+[Card] -> [Payment]
+
 [DeliveryGroup] -> [DeliveryItem]
 
 [DeliveryItem] -> [DeliveryItemOption]
 
+[Lottery] -> [DeliveryGroup]
+
+[Payment] -> [DeliveryGroup]
+
 [Product] -> [DeliveryItem]
+[Product] -> [Lottery]
 [Product] -> [ProductOption]
 
 [ProductOption] -> [DeliveryItemOption]
@@ -235,6 +284,7 @@ const Relationships = `
 [User] -> [BoardReply]
 [User] -> [Card]
 [User] -> [DeliveryGroup]
+[User] -> [Payment]
 `;
 
 
@@ -248,6 +298,8 @@ src += Card;
 src += DeliveryGroup;
 src += DeliveryItem;
 src += DeliveryItemOption;
+src += Lottery;
+src += Payment;
 src += Product;
 src += ProductOption;
 src += User;
