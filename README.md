@@ -1,0 +1,1 @@
+![Alt database_architecture](diagram.svg)
