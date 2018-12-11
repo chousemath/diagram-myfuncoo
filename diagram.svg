@@ -1,4 +1,4 @@
-<svg width="696" height="748" version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" style="font-weight:bold; font-size:12pt; font-family:'Calibri', Helvetica, sans-serif;;stroke-width:3;stroke-linejoin:round;stroke-linecap:round"><text x="331.3" y="359" style="">Parent</text>
+<svg width="838" height="748" version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" style="font-weight:bold; font-size:12pt; font-family:'Calibri', Helvetica, sans-serif;;stroke-width:3;stroke-linejoin:round;stroke-linecap:round"><text x="331.3" y="359" style="">Parent</text>
 <text x="222" y="464" style="">Child</text>
 <path d="M323.3 339 L277.5 405.5 L277.5 472 L277.5 472 " style="stroke:#33322E;fill:none;"></path>
 <text x="523.7" y="359" style="">Parent</text>
@@ -79,4 +79,16 @@
 <path d="M439.5 673.5 L683.5 673.5" style="stroke:#33322E;fill:none;"></path>
 <text x="447.5" y="695" style="">CreatedAt: decimal(13,3)</text>
 <path d="M439.5 704.5 L683.5 704.5" style="stroke:#33322E;fill:none;"></path>
-<text x="447.5" y="726" style="">UpdatedAt: decimal(13,3)</text></svg>
+<text x="447.5" y="726" style="">UpdatedAt: decimal(13,3)</text>
+<rect x="581.5" y="106.5" height="186" width="244" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="618" y="128" style="">DeliveryItemOption</text>
+<path d="M581.5 137.5 L825.5 137.5" style="stroke:#33322E;fill:none;"></path>
+<text x="589.5" y="159" style="">DeliveryItemID int(11)</text>
+<path d="M581.5 168.5 L825.5 168.5" style="stroke:#33322E;fill:none;"></path>
+<text x="589.5" y="190" style="">ProductOptionID int(11)</text>
+<path d="M581.5 199.5 L825.5 199.5" style="stroke:#33322E;fill:none;"></path>
+<text x="589.5" y="221" style="">ID: int(11)</text>
+<path d="M581.5 230.5 L825.5 230.5" style="stroke:#33322E;fill:none;"></path>
+<text x="589.5" y="252" style="">CreatedAt: decimal(13,3)</text>
+<path d="M581.5 261.5 L825.5 261.5" style="stroke:#33322E;fill:none;"></path>
+<text x="589.5" y="283" style="">UpdatedAt: decimal(13,3)</text></svg>

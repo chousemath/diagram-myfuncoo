@@ -53,6 +53,16 @@ const BoardReply = `
 ]
 `;
 
+const DeliveryItemOption = `
+[ DeliveryItemOption
+  | DeliveryItemID int(11)
+  | ProductOptionID int(11)
+  | ID: int(11)
+  | CreatedAt: decimal(13,3)
+  | UpdatedAt: decimal(13,3)
+]
+`;
+
 const Relationships = `
 [Board] Parent - Child [BoardImage]
 [Board] Parent - Child [BoardReply]
@@ -65,6 +75,7 @@ src += Address;
 src += Board;
 src += BoardImage;
 src += BoardReply;
+src += DeliveryItemOption;
 
 src += Relationships;
 
