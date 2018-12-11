@@ -1,1 +1,1 @@
-![Alt database_architecture](diagram_db.svg)
+![Alt database_architecture](diagram_db.png)
