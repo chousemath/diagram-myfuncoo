@@ -1,7 +1,8 @@
 #!/bin/bash
 
-echo "Generating the database diagram..."
+echo "Generating the database diagram svg..."
 node diagram_db.js > diagram_db.svg
+echo "Generating the database diagram png..."
 node svg_to_png.js diagram_db
 
 git add .
