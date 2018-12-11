@@ -1,0 +1,82 @@
+<svg width="696" height="748" version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" style="font-weight:bold; font-size:12pt; font-family:'Calibri', Helvetica, sans-serif;;stroke-width:3;stroke-linejoin:round;stroke-linecap:round"><text x="331.3" y="359" style="">Parent</text>
+<text x="222" y="464" style="">Child</text>
+<path d="M323.3 339 L277.5 405.5 L277.5 472 L277.5 472 " style="stroke:#33322E;fill:none;"></path>
+<text x="523.7" y="359" style="">Parent</text>
+<text x="506" y="417.5" style="">Child</text>
+<path d="M515.7 339 L561.5 405.5 L561.5 425.5 L561.5 425.5 " style="stroke:#33322E;fill:none;"></path>
+<rect x="13.5" y="13.5" height="372" width="244" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="102.3" y="35" style="">Address</text>
+<path d="M13.5 44.5 L257.5 44.5" style="stroke:#33322E;fill:none;"></path>
+<text x="21.5" y="66" style="">Category: int(11)</text>
+<path d="M13.5 75.5 L257.5 75.5" style="stroke:#33322E;fill:none;"></path>
+<text x="21.5" y="97" style="">Status: int(11)</text>
+<path d="M13.5 106.5 L257.5 106.5" style="stroke:#33322E;fill:none;"></path>
+<text x="21.5" y="128" style="">Country: int(4)</text>
+<path d="M13.5 137.5 L257.5 137.5" style="stroke:#33322E;fill:none;"></path>
+<text x="21.5" y="159" style="">UserID: int(11)</text>
+<path d="M13.5 168.5 L257.5 168.5" style="stroke:#33322E;fill:none;"></path>
+<text x="21.5" y="190" style="">Street: varchar(45)</text>
+<path d="M13.5 199.5 L257.5 199.5" style="stroke:#33322E;fill:none;"></path>
+<text x="21.5" y="221" style="">City: varchar(45)</text>
+<path d="M13.5 230.5 L257.5 230.5" style="stroke:#33322E;fill:none;"></path>
+<text x="21.5" y="252" style="">Province: varchar(45)</text>
+<path d="M13.5 261.5 L257.5 261.5" style="stroke:#33322E;fill:none;"></path>
+<text x="21.5" y="283" style="">Zipcode: varchar(45)</text>
+<path d="M13.5 292.5 L257.5 292.5" style="stroke:#33322E;fill:none;"></path>
+<text x="21.5" y="314" style="">ID: int(11)</text>
+<path d="M13.5 323.5 L257.5 323.5" style="stroke:#33322E;fill:none;"></path>
+<text x="21.5" y="345" style="">CreatedAt: decimal(13,3)</text>
+<path d="M13.5 354.5 L257.5 354.5" style="stroke:#33322E;fill:none;"></path>
+<text x="21.5" y="376" style="">UpdatedAt: decimal(13,3)</text>
+<rect x="297.5" y="60.5" height="279" width="244" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="395.8" y="82" style="">Board</text>
+<path d="M297.5 91.5 L541.5 91.5" style="stroke:#33322E;fill:none;"></path>
+<text x="305.5" y="113" style="">UserID: int(11)</text>
+<path d="M297.5 122.5 L541.5 122.5" style="stroke:#33322E;fill:none;"></path>
+<text x="305.5" y="144" style="">Category: int(11)</text>
+<path d="M297.5 153.5 L541.5 153.5" style="stroke:#33322E;fill:none;"></path>
+<text x="305.5" y="175" style="">Status: int(11)</text>
+<path d="M297.5 184.5 L541.5 184.5" style="stroke:#33322E;fill:none;"></path>
+<text x="305.5" y="206" style="">Theme: varchar(45)</text>
+<path d="M297.5 215.5 L541.5 215.5" style="stroke:#33322E;fill:none;"></path>
+<text x="305.5" y="237" style="">Content: text</text>
+<path d="M297.5 246.5 L541.5 246.5" style="stroke:#33322E;fill:none;"></path>
+<text x="305.5" y="268" style="">ID: int(11)</text>
+<path d="M297.5 277.5 L541.5 277.5" style="stroke:#33322E;fill:none;"></path>
+<text x="305.5" y="299" style="">CreatedAt: decimal(13,3)</text>
+<path d="M297.5 308.5 L541.5 308.5" style="stroke:#33322E;fill:none;"></path>
+<text x="305.5" y="330" style="">UpdatedAt: decimal(13,3)</text>
+<rect x="155.5" y="472.5" height="217" width="244" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="230" y="494" style="">BoardImage</text>
+<path d="M155.5 503.5 L399.5 503.5" style="stroke:#33322E;fill:none;"></path>
+<text x="163.5" y="525" style="">ImageURL: varchar(250)</text>
+<path d="M155.5 534.5 L399.5 534.5" style="stroke:#33322E;fill:none;"></path>
+<text x="163.5" y="556" style="">BoardID: int(10)</text>
+<path d="M155.5 565.5 L399.5 565.5" style="stroke:#33322E;fill:none;"></path>
+<text x="163.5" y="587" style="">Status: int(10)</text>
+<path d="M155.5 596.5 L399.5 596.5" style="stroke:#33322E;fill:none;"></path>
+<text x="163.5" y="618" style="">ID: int(11)</text>
+<path d="M155.5 627.5 L399.5 627.5" style="stroke:#33322E;fill:none;"></path>
+<text x="163.5" y="649" style="">CreatedAt: decimal(13,3)</text>
+<path d="M155.5 658.5 L399.5 658.5" style="stroke:#33322E;fill:none;"></path>
+<text x="163.5" y="680" style="">UpdatedAt: decimal(13,3)</text>
+<rect x="439.5" y="425.5" height="310" width="244" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="514" y="447" style="">BoardReply</text>
+<path d="M439.5 456.5 L683.5 456.5" style="stroke:#33322E;fill:none;"></path>
+<text x="447.5" y="478" style="">BoardID: int(11)</text>
+<path d="M439.5 487.5 L683.5 487.5" style="stroke:#33322E;fill:none;"></path>
+<text x="447.5" y="509" style="">UserID: int(11)</text>
+<path d="M439.5 518.5 L683.5 518.5" style="stroke:#33322E;fill:none;"></path>
+<text x="447.5" y="540" style="">Category: int(11)</text>
+<path d="M439.5 549.5 L683.5 549.5" style="stroke:#33322E;fill:none;"></path>
+<text x="447.5" y="571" style="">Status: int(11)</text>
+<path d="M439.5 580.5 L683.5 580.5" style="stroke:#33322E;fill:none;"></path>
+<text x="447.5" y="602" style="">Theme: varchar(45)</text>
+<path d="M439.5 611.5 L683.5 611.5" style="stroke:#33322E;fill:none;"></path>
+<text x="447.5" y="633" style="">Content: text</text>
+<path d="M439.5 642.5 L683.5 642.5" style="stroke:#33322E;fill:none;"></path>
+<text x="447.5" y="664" style="">ID: int(11)</text>
+<path d="M439.5 673.5 L683.5 673.5" style="stroke:#33322E;fill:none;"></path>
+<text x="447.5" y="695" style="">CreatedAt: decimal(13,3)</text>
+<path d="M439.5 704.5 L683.5 704.5" style="stroke:#33322E;fill:none;"></path>
+<text x="447.5" y="726" style="">UpdatedAt: decimal(13,3)</text></svg>
