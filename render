@@ -12,4 +12,5 @@ git push
 cp ./diagram_db.svg /Users/jo/go/src/github.com/chousemath/myfuncoo/diagram_db.svg
 cp ./diagram_db.png /Users/jo/go/src/github.com/chousemath/myfuncoo/diagram_db.png
 
-. /Users/jo/go/src/github.com/chousemath/myfuncoo/save
+cd /Users/jo/go/src/github.com/chousemath/myfuncoo
+./save
