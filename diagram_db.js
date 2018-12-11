@@ -5,11 +5,11 @@ const Address = `
   | Category int(11)
   | Status int(11)
   | Country int(4)
-  | UserID int(11)
   | Street varchar(45)
   | City varchar(45)
   | Province varchar(45)
   | Zipcode varchar(45)
+  | UserID int(11)
   | ID int(11)
   | CreatedAt decimal(13,3)
   | UpdatedAt decimal(13,3)
@@ -17,11 +17,11 @@ const Address = `
 `;
 const Board = `
 [ Board
-  | UserID int(11)
   | Category int(11)
   | Status int(11)
   | Theme varchar(45)
   | Content text
+  | UserID int(11)
   | ID int(11)
   | CreatedAt decimal(13,3)
   | UpdatedAt decimal(13,3)
@@ -31,8 +31,8 @@ const Board = `
 const BoardImage = `
 [ BoardImage
   | ImageURL varchar(250)
-  | BoardID int(10)
   | Status int(10)
+  | BoardID int(10)
   | ID int(11)
   | CreatedAt decimal(13,3)
   | UpdatedAt decimal(13,3)
@@ -41,12 +41,12 @@ const BoardImage = `
 
 const BoardReply = `
 [ BoardReply
-  | BoardID int(11)
-  | UserID int(11)
   | Category int(11)
   | Status int(11)
   | Theme varchar(45)
   | Content text
+  | BoardID int(11)
+  | UserID int(11)
   | ID int(11)
   | CreatedAt decimal(13,3)
   | UpdatedAt decimal(13,3)
@@ -55,7 +55,6 @@ const BoardReply = `
 
 const Card = `
 [ Card
-  | UserID int(11)
   | Category int(11)
   | BillingKey varchar(45)
   | Status int(11)
@@ -64,6 +63,44 @@ const Card = `
   | ExpMonth int(11)
   | ExpYear int(11)
   | Name varchar(45)
+  | UserID int(11)
+  | ID int(11)
+  | CreatedAt decimal(13,3)
+  | UpdatedAt decimal(13,3)
+]
+`;
+
+const DeliveryGroup = `
+[ DeliveryGroup
+  | DeliveryNumber varchar(150)
+  | DeliveryCompany varchar(150)
+  | DeliveryHistory text
+  | DeliveryRequest text
+  | RecipientName varchar(45)
+  | RecipientPhone varchar(45)
+  | Review text
+  | ShippingStreet varchar(200)
+  | ShippingCity varchar(45)
+  | ShippingProvince varchar(45)
+  | ShippingZipcode varchar(45)
+  | CancellationReason text
+  | Rating decimal(5,2)
+  | DeliveryDate decimal(13,3)
+  | FulfillmentDate decimal(13,3)
+  | Status int(10)
+  | CancellationType int(10)
+  | TollPenalty int(10)
+  | DeliveryStatus int(10)
+  | Category int(10)
+  | ShippingInfoDeadline decimal(13,3)
+  | TollDiscount int(10)
+  | TollPayment int(10)
+  | PreviousTollAmount int(10)
+  | DeliveryFee decimal(10,2)
+  | ShippingCountry int(4)
+  | LotteryID int(10)
+  | PaymentID int(10)
+  | UserID int(10)
   | ID int(11)
   | CreatedAt decimal(13,3)
   | UpdatedAt decimal(13,3)
@@ -72,11 +109,14 @@ const Card = `
 
 const DeliveryItem = `
 [ DeliveryItem
-  | ProductID int(10)
-  | DeliveryGroupID int(10)
   | Quantity int(10)
   | ProductReviewDeadline decimal(13,3)
   | LotteryReviewDeadline decimal(13,3)
+  | ProductID int(10)
+  | DeliveryGroupID int(10)
+  | ID int(11)
+  | CreatedAt decimal(13,3)
+  | UpdatedAt decimal(13,3)
 ]
 `;
 
@@ -90,13 +130,52 @@ const DeliveryItemOption = `
 ]
 `;
 
+const Product = `
+[ Product
+  | Name varchar(45)
+  | Description text
+  | Status int(11)
+  | Position int(11)
+  | Category int(11)
+  | DeliveryMethod int(11)
+  | MaxDiscount decimal(10,2)
+  | SourcingOrigin text
+  | Thumbnail text
+  | ImageURL text
+  | Stock int(11)
+  | Merchant varchar(45)
+  | Domestic int(11)
+  | ProductionPrice decimal(10,2)
+  | SellPrice decimal(10,2)
+  | FakePrice decimal(10,2)
+  | MaxSalePrice decimal(10,2)
+  | Color int(10)
+  | Width decimal(10,2)
+  | Length decimal(10,2)
+  | Height decimal(10,2)
+  | SourcingCountry int(10)
+  | Handling text
+  | QualityAssurance text
+  | ASContact text
+  | TollPrice int(10)
+  | ViewCount int(10)
+  | CouponLimit int(11)
+  | ID int(11)
+  | CreatedAt decimal(13,3)
+  | UpdatedAt decimal(13,3)
+]
+`;
+
 const ProductOption = `
 [ ProductOption
-  | ProductID int(11)
   | Name varchar(45)
   | Description text
   | AddedCost decimal(10,2)
   | Status int(10)
+  | ProductID int(11)
+  | ID int(11)
+  | CreatedAt decimal(13,3)
+  | UpdatedAt decimal(13,3)
 ]
 `;
 
@@ -142,7 +221,12 @@ const Relationships = `
 [Board] -> [BoardImage]
 [Board] -> [BoardReply]
 
+[DeliveryGroup] -> [DeliveryItem]
+
 [DeliveryItem] -> [DeliveryItemOption]
+
+[Product] -> [DeliveryItem]
+[Product] -> [ProductOption]
 
 [ProductOption] -> [DeliveryItemOption]
 
@@ -150,6 +234,7 @@ const Relationships = `
 [User] -> [Board]
 [User] -> [BoardReply]
 [User] -> [Card]
+[User] -> [DeliveryGroup]
 `;
 
 
@@ -160,8 +245,10 @@ src += Board;
 src += BoardImage;
 src += BoardReply;
 src += Card;
+src += DeliveryGroup;
 src += DeliveryItem;
 src += DeliveryItemOption;
+src += Product;
 src += ProductOption;
 src += User;
 
