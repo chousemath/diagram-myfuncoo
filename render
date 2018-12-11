@@ -1,3 +1,6 @@
 #!/bin/bash
 
 node diagram.js > diagram.svg
+git add .
+git commit -am "Quick save..."
+git push
