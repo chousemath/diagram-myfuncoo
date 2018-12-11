@@ -1,6 +1,12 @@
 const nomnoml = require('nomnoml');
 
 const src = `
+[Address | ID::int(11) | UpdatedAt::decimal(13,3) | UserID::int(11) | Street::varchar(45) | City::varchar(45) | Province::varchar(45) | Zipcode::varchar(45) | Category::int(11) | Status::int(11) | Country::int(4) | CreatedAt::decimal(13,3)]
+[Board | ID::int(11) | UpdatedAt::decimal(13,3) | UserID::int(11) | Category::int(11) | Status::int(11) | Theme::varchar(45) | Content::text| CreatedAt::decimal(13,3)]
+[BoardImage | ID::int(10) | BoardID::int(10) | Status::int(10) | CreatedAt::decimal(13,3) | UpdatedAt::decimal(13,3)]
+[BoardReply | ID::int(11) | UpdatedAt::decimal(13,3) | BoardID::int(11) | UserID::int(11) | Category::int(11) | Status::int(11) | Theme::varchar(45) | Content::text | CreatedAt::decimal(13,3)]
+[Card | ID::int(11) | Category::int(11) | BillingKey::varchar(45) | Status::int(11) | CreatedAt::decimal(13,3) | UpdatedAt::decimal(13,3) | LastFour::varchar(45) | CardBrand::int(11) | ExpMonth::int(11) | ExpYear::int(11) | Name::varchar(45)]
+[CartItem | ID::int(11) | ProductID::int(11) | Status::int(11) | Count::int(11) | CreatedAt::decimal(13,3) | UpdatedAt::decimal(13,3) | ShareCode::varchar(45)]
 [Category | ID::int(11) | Status::int(11) | ImageURL::text | CreatedAt::decimal(13,3) | UpdatedAt::decimal(13,3)]
 [CategoryProduct | ID::int(11) | UpdatedAt::decimal(13,3) | CategoryID::int(11) | ProductID::int(11) | CreatedAt::decimal(13,3)]
 [Coupon | ID::int(11) | UpdatedAt::decimal(13,3) | UserID::int(11) | CouponCategoryID::int(11) | Status::int(11) | StartsAt::decimal(13,3) |EndsAt::decimal(13,3) | Quantity::int(11) | PaymentID::int(11) | CreatedAt::decimal(13,3)]
