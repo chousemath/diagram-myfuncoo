@@ -4,3 +4,4 @@ node diagram.js > diagram.svg
 git add .
 git commit -am "Quick save..."
 git push
+cp ./diagram.svg /Users/jo/go/src/github.com/chousemath/myfuncoo/diagram.svg
