@@ -1,854 +1,854 @@
-<svg width="5972" height="3410" version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" style="font-weight:bold; font-size:12pt; font-family:'Calibri', Helvetica, sans-serif;;stroke-width:3;stroke-linejoin:round;stroke-linecap:round"><path d="M4479.5 703.1 L4762.5 994.5 L4762.5 1123 L4762.5 1123 " style="stroke:#33322E;fill:none;"></path>
-<path d="M4757.2 1109.7 L4762.5 1116.3 L4767.8 1109.7 L4762.5 1123 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M4439.1 897 L4478.5 994.5 L4478.5 1169.5 L4478.5 1169.5 " style="stroke:#33322E;fill:none;"></path>
-<path d="M4473.2 1156.2 L4478.5 1162.8 L4483.8 1156.2 L4478.5 1169.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M4470.2 1417.5 L4458.5 1592.5 L4458.5 2015.5 L4458.5 2015.5 " style="stroke:#33322E;fill:none;"></path>
-<path d="M4453.2 2002.2 L4458.5 2008.8 L4463.8 2002.2 L4458.5 2015.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M4598.4 1417.5 L4767.5 1592.5 L5234 2001.5 L5234 2001.5 " style="stroke:#33322E;fill:none;"></path>
-<path d="M5220.5 1996.7 L5229 1997.1 L5227.5 1988.7 L5234 2001.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M4479.5 618.8 L5090.5 994.5 L5090.5 1592.5 L5090.5 1592.5 L5284.2 1969 L5284.2 1969 " style="stroke:#33322E;fill:none;"></path>
-<path d="M5273.4 1959.6 L5281.2 1963.1 L5282.9 1954.7 L5284.2 1969 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M1323 582.4 L621.5 994.5 L621.5 1169.5 L621.5 1169.5 " style="stroke:#33322E;fill:none;"></path>
-<path d="M616.2 1156.2 L621.5 1162.8 L626.8 1156.2 L621.5 1169.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M135.5 587 L135.5 994.5 L285.1 1216 L285.1 1216 " style="stroke:#33322E;fill:none;"></path>
-<path d="M273.3 1207.9 L281.4 1210.5 L282.1 1202 L285.1 1216 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M1323 560.3 L337.5 994.5 L337.5 1216 L337.5 1216 " style="stroke:#33322E;fill:none;"></path>
-<path d="M332.2 1202.7 L337.5 1209.3 L342.8 1202.7 L337.5 1216 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M4479.5 632.4 L5010.5 994.5 L5010.5 1592.5 L5010.5 1592.5 L5050 1953.5 L5050 1953.5 " style="stroke:#33322E;fill:none;"></path>
-<path d="M5043.3 1940.8 L5049.3 1946.9 L5053.9 1939.7 L5050 1953.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M5463.8 711 L5452.5 994.5 L5452.5 1592.5 L5452.5 1592.5 L5182.8 1953.5 L5182.8 1953.5 " style="stroke:#33322E;fill:none;"></path>
-<path d="M5186.5 1939.6 L5186.8 1948.2 L5195.1 1946 L5182.8 1953.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M3870.7 1510.5 L3895.5 1592.5 L4940 2052.6 L4940 2052.6 " style="stroke:#33322E;fill:none;"></path>
-<path d="M4925.6 2052.1 L4933.9 2049.9 L4929.9 2042.3 L4940 2052.6 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M4479.5 625.3 L5050.5 994.5 L5179.8 1169.5 L5179.8 1169.5 " style="stroke:#33322E;fill:none;"></path>
-<path d="M5167.6 1161.9 L5175.9 1164.1 L5176.2 1155.6 L5179.8 1169.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M5481.2 711 L5492.5 994.5 L5363.2 1169.5 L5363.2 1169.5 " style="stroke:#33322E;fill:none;"></path>
-<path d="M5366.8 1155.6 L5367.1 1164.1 L5375.4 1161.9 L5363.2 1169.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M4139.2 897 L4106 994.5 L4106 1592.5 L4106 1592.5 L4100.2 1612.5 L4100.2 1612.5 " style="stroke:#33322E;fill:none;"></path>
-<path d="M4098.8 1598.2 L4102 1606.1 L4109 1601.2 L4100.2 1612.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M3805 1510.5 L3805 1592.5 L3810.8 1612.5 L3810.8 1612.5 " style="stroke:#33322E;fill:none;"></path>
-<path d="M3802 1601.2 L3809 1606.1 L3812.2 1598.2 L3810.8 1612.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M1859.1 1572.5 L1866 1592.5 L3781 2065.4 L3781 2065.4 " style="stroke:#33322E;fill:none;"></path>
-<path d="M3766.8 2067.4 L3774.5 2063.8 L3769.3 2057 L3781 2065.4 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M1624 656.3 L1937.8 994.5 L1937.8 2624.5 L1937.8 2624.5 L3574.5 2768.3 L3574.5 2768.3 " style="stroke:#33322E;fill:none;"></path>
-<path d="M3560.8 2772.4 L3567.9 2767.7 L3561.7 2761.8 L3574.5 2768.3 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M3955.5 2604.5 L3955.5 2624.5 L3910.5 2660 L3910.5 2660 " style="stroke:#33322E;fill:none;"></path>
-<path d="M3917.7 2647.6 L3915.8 2655.9 L3924.3 2655.9 L3910.5 2660 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M2423.8 618 L2423.8 994.5 L2423.8 1216 L2423.8 1216 " style="stroke:#33322E;fill:none;"></path>
-<path d="M2418.4 1202.7 L2423.8 1209.3 L2429.1 1202.7 L2423.8 1216 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M1323 552 L175.5 994.5 L175.5 2943.5 L175.5 2943.5 L4103.5 3172 L4103.5 3172 " style="stroke:#33322E;fill:none;"></path>
-<path d="M4089.9 3176.6 L4096.8 3171.6 L4090.5 3165.9 L4103.5 3172 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M5067 2263.5 L5067 2624.5 L5067 2943.5 L5067 2943.5 L4395.5 3138.2 L4395.5 3138.2 " style="stroke:#33322E;fill:none;"></path>
-<path d="M4406.8 3129.3 L4401.9 3136.3 L4409.8 3139.6 L4395.5 3138.2 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M3753.5 2908 L3753.5 2943.5 L4103.5 3110.7 L4103.5 3110.7 " style="stroke:#33322E;fill:none;"></path>
-<path d="M4089.2 3109.8 L4097.5 3107.9 L4093.8 3100.2 L4103.5 3110.7 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M1624 754.6 L1762.5 994.5 L1762.5 1014.5 L1762.5 1014.5 " style="stroke:#33322E;fill:none;"></path>
-<path d="M1757.2 1001.2 L1762.5 1007.8 L1767.8 1001.2 L1762.5 1014.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M4073.5 575.6 L3031.8 994.5 L3031.8 1592.5 L3031.8 1592.5 L1886 2051.1 L1886 2051.1 " style="stroke:#33322E;fill:none;"></path>
-<path d="M1896.4 2041.2 L1892.2 2048.6 L1900.4 2051.1 L1886 2051.1 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M1743.8 1572.5 L1742.5 1592.5 L1742.5 1969 L1742.5 1969 " style="stroke:#33322E;fill:none;"></path>
-<path d="M1737.2 1955.7 L1742.5 1962.3 L1747.8 1955.7 L1742.5 1969 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M1323 626.6 L905.5 994.5 L905.5 1169.5 L905.5 1169.5 " style="stroke:#33322E;fill:none;"></path>
-<path d="M900.2 1156.2 L905.5 1162.8 L910.8 1156.2 L905.5 1169.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M2991.8 680 L2991.8 994.5 L3664 1241.7 L3664 1241.7 " style="stroke:#33322E;fill:none;"></path>
-<path d="M3649.6 1242.1 L3657.7 1239.4 L3653.3 1232.1 L3664 1241.7 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M4107 897 L4066 994.5 L3946 1132 L3946 1132 " style="stroke:#33322E;fill:none;"></path>
-<path d="M3950.8 1118.4 L3950.4 1126.9 L3958.8 1125.4 L3946 1132 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M1323 759.2 L1189.5 994.5 L1189.5 1200.5 L1189.5 1200.5 " style="stroke:#33322E;fill:none;"></path>
-<path d="M1184.2 1187.2 L1189.5 1193.8 L1194.8 1187.2 L1189.5 1200.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M1473.5 974.5 L1473.5 994.5 L1473.5 1200.5 L1473.5 1200.5 " style="stroke:#33322E;fill:none;"></path>
-<path d="M1468.2 1187.2 L1473.5 1193.8 L1478.8 1187.2 L1473.5 1200.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M1624 614.3 L2099.8 994.5 L2099.8 1200.5 L2099.8 1200.5 " style="stroke:#33322E;fill:none;"></path>
-<path d="M2094.4 1187.2 L2099.8 1193.8 L2105.1 1187.2 L2099.8 1200.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M4074.8 897 L4026 994.5 L3353.8 1241.7 L3353.8 1241.7 " style="stroke:#33322E;fill:none;"></path>
-<path d="M3364.4 1232.1 L3360 1239.4 L3368.1 1242.1 L3353.8 1241.7 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M1624 580.7 L2342.8 994.5 L3071.8 1245 L3071.8 1245 " style="stroke:#33322E;fill:none;"></path>
-<path d="M3057.4 1245.8 L3065.4 1242.9 L3060.9 1235.7 L3071.8 1245 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M4073.5 843.7 L3986 994.5 L3986 1592.5 L3986 1592.5 L2383.8 2072 L2383.8 2072 " style="stroke:#33322E;fill:none;"></path>
-<path d="M2395 2063.1 L2390.1 2070.1 L2398.1 2073.3 L2383.8 2072 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M1624 589.6 L2261.8 994.5 L2261.8 1592.5 L2261.8 1592.5 L2261.8 1938 L2261.8 1938 " style="stroke:#33322E;fill:none;"></path>
-<path d="M2256.4 1924.7 L2261.8 1931.3 L2267.1 1924.7 L2261.8 1938 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M1781.2 1572.5 L1782.5 1592.5 L2139.8 1977.1 L2139.8 1977.1 " style="stroke:#33322E;fill:none;"></path>
-<path d="M2126.8 1971 L2135.2 1972.3 L2134.6 1963.7 L2139.8 1977.1 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M2255.1 2279 L2241.8 2624.5 L2279.3 2691 L2279.3 2691 " style="stroke:#33322E;fill:none;"></path>
-<path d="M2268.1 2682 L2276 2685.2 L2277.4 2676.8 L2279.3 2691 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M2268.4 2279 L2281.8 2624.5 L3992.5 2773.4 L3992.5 2773.4 " style="stroke:#33322E;fill:none;"></path>
-<path d="M3978.8 2777.5 L3985.9 2772.8 L3979.7 2766.9 L3992.5 2773.4 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M4292.6 897 L4296.5 994.5 L4296.5 2624.5 L4296.5 2624.5 L4236.5 2677.1 L4236.5 2677.1 " style="stroke:#33322E;fill:none;"></path>
-<path d="M4243 2664.3 L4241.5 2672.7 L4250 2672.3 L4236.5 2677.1 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M3668.4 1510.5 L3616.8 1592.5 L3616.8 1969 L3616.8 1969 " style="stroke:#33322E;fill:none;"></path>
-<path d="M3611.4 1955.7 L3616.8 1962.3 L3622.1 1955.7 L3616.8 1969 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M1635.5 1364.8 L1230 1592.5 L1230 2624.5 L1230 2624.5 L1690.5 2750.6 L1690.5 2750.6 " style="stroke:#33322E;fill:none;"></path>
-<path d="M1676.2 2752.2 L1684.1 2748.8 L1679 2741.9 L1690.5 2750.6 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M4073.5 609.1 L3393.8 994.5 L3393.8 2624.5 L3393.8 2624.5 L1934.5 2771.7 L1934.5 2771.7 " style="stroke:#33322E;fill:none;"></path>
-<path d="M1947.2 2765 L1941.1 2771 L1948.3 2775.7 L1934.5 2771.7 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M1742.5 2248 L1742.5 2624.5 L1758.1 2660 L1758.1 2660 " style="stroke:#33322E;fill:none;"></path>
-<path d="M1747.8 2649.9 L1755.4 2653.9 L1757.6 2645.6 L1758.1 2660 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<rect x="4640.5" y="1123.5" height="341" width="244" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="4729.3" y="1145" style="">Address</text>
-<path d="M4640.5 1154.5 L4884.5 1154.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4648.5" y="1176" style="">ID::int(11)</text>
-<path d="M4640.5 1185.5 L4884.5 1185.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4648.5" y="1207" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M4640.5 1216.5 L4884.5 1216.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4648.5" y="1238" style="">UserID::int(11)</text>
-<path d="M4640.5 1247.5 L4884.5 1247.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4648.5" y="1269" style="">Street::varchar(45)</text>
-<path d="M4640.5 1278.5 L4884.5 1278.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4648.5" y="1300" style="">City::varchar(45)</text>
-<path d="M4640.5 1309.5 L4884.5 1309.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4648.5" y="1331" style="">Province::varchar(45)</text>
-<path d="M4640.5 1340.5 L4884.5 1340.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4648.5" y="1362" style="">Zipcode::varchar(45)</text>
-<path d="M4640.5 1371.5 L4884.5 1371.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4648.5" y="1393" style="">Category::int(11)</text>
-<path d="M4640.5 1402.5 L4884.5 1402.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4648.5" y="1424" style="">Status::int(11)</text>
-<path d="M4640.5 1433.5 L4884.5 1433.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4648.5" y="1455" style="">Country::int(4)</text>
-<rect x="4356.5" y="1169.5" height="248" width="244" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="4454.8" y="1191" style="">Board</text>
-<path d="M4356.5 1200.5 L4600.5 1200.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4364.5" y="1222" style="">ID::int(11)</text>
-<path d="M4356.5 1231.5 L4600.5 1231.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4364.5" y="1253" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M4356.5 1262.5 L4600.5 1262.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4364.5" y="1284" style="">UserID::int(11)</text>
-<path d="M4356.5 1293.5 L4600.5 1293.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4364.5" y="1315" style="">Category::int(11)</text>
-<path d="M4356.5 1324.5 L4600.5 1324.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4364.5" y="1346" style="">Status::int(11)</text>
-<path d="M4356.5 1355.5 L4600.5 1355.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4364.5" y="1377" style="">Theme::varchar(45)</text>
-<path d="M4356.5 1386.5 L4600.5 1386.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4364.5" y="1408" style="">Content::text</text>
-<rect x="4336.5" y="2015.5" height="186" width="244" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="4411" y="2037" style="">BoardImage</text>
-<path d="M4336.5 2046.5 L4580.5 2046.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4344.5" y="2068" style="">ID::int(10)</text>
-<path d="M4336.5 2077.5 L4580.5 2077.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4344.5" y="2099" style="">BoardID::int(10)</text>
-<path d="M4336.5 2108.5 L4580.5 2108.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4344.5" y="2130" style="">Status::int(10)</text>
-<path d="M4336.5 2139.5 L4580.5 2139.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4344.5" y="2161" style="">CreatedAt::decimal(13,3)</text>
-<path d="M4336.5 2170.5 L4580.5 2170.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4344.5" y="2192" style="">UpdatedAt::decimal(13,3)</text>
-<rect x="5234.5" y="1969.5" height="279" width="244" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="5309" y="1991" style="">BoardReply</text>
-<path d="M5234.5 2000.5 L5478.5 2000.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5242.5" y="2022" style="">ID::int(11)</text>
-<path d="M5234.5 2031.5 L5478.5 2031.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5242.5" y="2053" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M5234.5 2062.5 L5478.5 2062.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5242.5" y="2084" style="">BoardID::int(11)</text>
-<path d="M5234.5 2093.5 L5478.5 2093.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5242.5" y="2115" style="">UserID::int(11)</text>
-<path d="M5234.5 2124.5 L5478.5 2124.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5242.5" y="2146" style="">Category::int(11)</text>
-<path d="M5234.5 2155.5 L5478.5 2155.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5242.5" y="2177" style="">Status::int(11)</text>
-<path d="M5234.5 2186.5 L5478.5 2186.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5242.5" y="2208" style="">Theme::varchar(45)</text>
-<path d="M5234.5 2217.5 L5478.5 2217.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5242.5" y="2239" style="">Content::text</text>
-<rect x="2869.5" y="308.5" height="372" width="244" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="2972.5" y="330" style="">Card</text>
-<path d="M2869.5 339.5 L3113.5 339.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2877.5" y="361" style="">ID::int(11)</text>
-<path d="M2869.5 370.5 L3113.5 370.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2877.5" y="392" style="">Category::int(11)</text>
-<path d="M2869.5 401.5 L3113.5 401.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2877.5" y="423" style="">BillingKey::varchar(45)</text>
-<path d="M2869.5 432.5 L3113.5 432.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2877.5" y="454" style="">Status::int(11)</text>
-<path d="M2869.5 463.5 L3113.5 463.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2877.5" y="485" style="">CreatedAt::decimal(13,3)</text>
-<path d="M2869.5 494.5 L3113.5 494.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2877.5" y="516" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M2869.5 525.5 L3113.5 525.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2877.5" y="547" style="">LastFour::varchar(45)</text>
-<path d="M2869.5 556.5 L3113.5 556.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2877.5" y="578" style="">CardBrand::int(11)</text>
-<path d="M2869.5 587.5 L3113.5 587.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2877.5" y="609" style="">ExpMonth::int(11)</text>
-<path d="M2869.5 618.5 L3113.5 618.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2877.5" y="640" style="">ExpYear::int(11)</text>
-<path d="M2869.5 649.5 L3113.5 649.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2877.5" y="671" style="">Name::varchar(45)</text>
-<rect x="499.5" y="1169.5" height="248" width="244" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="583.5" y="1191" style="">CartItem</text>
-<path d="M499.5 1200.5 L743.5 1200.5" style="stroke:#33322E;fill:none;"></path>
-<text x="507.5" y="1222" style="">ID::int(11)</text>
-<path d="M499.5 1231.5 L743.5 1231.5" style="stroke:#33322E;fill:none;"></path>
-<text x="507.5" y="1253" style="">ProductID::int(11)</text>
-<path d="M499.5 1262.5 L743.5 1262.5" style="stroke:#33322E;fill:none;"></path>
-<text x="507.5" y="1284" style="">Status::int(11)</text>
-<path d="M499.5 1293.5 L743.5 1293.5" style="stroke:#33322E;fill:none;"></path>
-<text x="507.5" y="1315" style="">Count::int(11)</text>
-<path d="M499.5 1324.5 L743.5 1324.5" style="stroke:#33322E;fill:none;"></path>
-<text x="507.5" y="1346" style="">CreatedAt::decimal(13,3)</text>
-<path d="M499.5 1355.5 L743.5 1355.5" style="stroke:#33322E;fill:none;"></path>
-<text x="507.5" y="1377" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M499.5 1386.5 L743.5 1386.5" style="stroke:#33322E;fill:none;"></path>
-<text x="507.5" y="1408" style="">ShareCode::varchar(45)</text>
-<rect x="13.5" y="401.5" height="186" width="244" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="97.5" y="423" style="">Category</text>
-<path d="M13.5 432.5 L257.5 432.5" style="stroke:#33322E;fill:none;"></path>
+<svg width="8928.25" height="3410" version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" style="font-weight:bold; font-size:12pt; font-family:'Calibri', Helvetica, sans-serif;;stroke-width:3;stroke-linejoin:round;stroke-linecap:round"><path d="M6719.3 666.3 L7186.8 994.5 L7186.8 1123 L7186.8 1123 " style="stroke:#33322E;fill:none;"></path>
+<path d="M7181.4 1109.7 L7186.8 1116.3 L7192.1 1109.7 L7186.8 1123 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M6711.7 897 L6769.3 994.5 L6769.3 1169.5 L6769.3 1169.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M6763.9 1156.2 L6769.3 1162.8 L6774.6 1156.2 L6769.3 1169.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M6761 1417.5 L6749.3 1592.5 L6749.3 2015.5 L6749.3 2015.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M6743.9 2002.2 L6749.3 2008.8 L6754.6 2002.2 L6749.3 2015.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M6953.3 1413.8 L7226.8 1592.5 L7886 1995.9 L7886 1995.9 " style="stroke:#33322E;fill:none;"></path>
+<path d="M7871.8 1993.5 L7880.3 1992.4 L7877.4 1984.4 L7886 1995.9 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M6719.3 598.3 L7652.3 994.5 L7652.3 1592.5 L7652.3 1592.5 L7957.1 1969 L7957.1 1969 " style="stroke:#33322E;fill:none;"></path>
+<path d="M7944.5 1962 L7952.9 1963.8 L7952.8 1955.3 L7957.1 1969 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M2078.5 578.6 L1011 994.5 L1011 1169.5 L1011 1169.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M1005.7 1156.2 L1011 1162.8 L1016.3 1156.2 L1011 1169.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M249.5 587 L249.5 994.5 L462.5 1216 L462.5 1216 " style="stroke:#33322E;fill:none;"></path>
+<path d="M449.4 1210.1 L457.9 1211.2 L457.1 1202.7 L462.5 1216 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M2078.5 555.8 L537 994.5 L537 1216 L537 1216 " style="stroke:#33322E;fill:none;"></path>
+<path d="M531.7 1202.7 L537 1209.3 L542.3 1202.7 L537 1216 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M6719.3 605.9 L7572.3 994.5 L7572.3 1592.5 L7572.3 1592.5 L7618.6 1953.5 L7618.6 1953.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M7611.6 1941 L7617.8 1946.9 L7622.2 1939.6 L7618.6 1953.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M8187.6 711 L8176.3 994.5 L8176.3 1592.5 L8176.3 1592.5 L7800 1953.5 L7800 1953.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M7806 1940.4 L7804.8 1948.9 L7813.3 1948.1 L7800 1953.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M5926 1510.5 L5958 1592.5 L7431 2044.8 L7431 2044.8 " style="stroke:#33322E;fill:none;"></path>
+<path d="M7416.7 2046 L7424.6 2042.8 L7419.8 2035.8 L7431 2044.8 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M6719.3 601.9 L7612.3 994.5 L7789 1169.5 L7789 1169.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M7775.8 1163.9 L7784.3 1164.8 L7783.3 1156.3 L7789 1169.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M8204.9 711 L8216.3 994.5 L8039.5 1169.5 L8039.5 1169.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M8045.2 1156.3 L8044.2 1164.8 L8052.7 1163.9 L8039.5 1169.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M6249.1 897 L6194.8 994.5 L6194.8 1592.5 L6194.8 1592.5 L6187.9 1612.5 L6187.9 1612.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M6187.2 1598.2 L6190.1 1606.2 L6197.3 1601.6 L6187.9 1612.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M5841.3 1510.5 L5841.3 1592.5 L5848.1 1612.5 L5848.1 1612.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M5838.7 1601.6 L5845.9 1606.2 L5848.8 1598.2 L5848.1 1612.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M2878.7 1572.5 L2888.8 1592.5 L5786.5 2070.3 L5786.5 2070.3 " style="stroke:#33322E;fill:none;"></path>
+<path d="M5772.5 2073.4 L5779.9 2069.2 L5774.2 2062.9 L5786.5 2070.3 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M2512.5 644.4 L3017.5 994.5 L3017.5 2624.5 L3017.5 2624.5 L5402.5 2766.5 L5402.5 2766.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M5388.9 2771.1 L5395.8 2766.2 L5389.5 2760.4 L5402.5 2766.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M6018 2604.5 L6018 2624.5 L5946.2 2660 L5946.2 2660 " style="stroke:#33322E;fill:none;"></path>
+<path d="M5955.8 2649.3 L5952.2 2657 L5960.5 2658.9 L5946.2 2660 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M3788.5 618 L3788.5 994.5 L3788.5 1216 L3788.5 1216 " style="stroke:#33322E;fill:none;"></path>
+<path d="M3783.2 1202.7 L3788.5 1209.3 L3793.8 1202.7 L3788.5 1216 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M2078.5 548.1 L289.5 994.5 L289.5 2943.5 L289.5 2943.5 L6236.3 3171.6 L6236.3 3171.6 " style="stroke:#33322E;fill:none;"></path>
+<path d="M6222.7 3176.4 L6229.6 3171.4 L6223.1 3165.8 L6236.3 3171.6 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M7638.5 2263.5 L7638.5 2624.5 L7638.5 2943.5 L7638.5 2943.5 L6699.3 3133.6 L6699.3 3133.6 " style="stroke:#33322E;fill:none;"></path>
+<path d="M6711.3 3125.8 L6705.8 3132.3 L6713.4 3136.2 L6699.3 3133.6 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M5695.5 2908 L5695.5 2943.5 L6236.3 3109.5 L6236.3 3109.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M6221.9 3110.6 L6229.9 3107.5 L6225.1 3100.4 L6236.3 3109.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M2512.5 738.9 L2739 994.5 L2739 1014.5 L2739 1014.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M2733.7 1001.2 L2739 1007.8 L2744.3 1001.2 L2739 1014.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M6228.3 561.5 L4654 994.5 L4654 1592.5 L4654 1592.5 L2976.5 2039.8 L2976.5 2039.8 " style="stroke:#33322E;fill:none;"></path>
+<path d="M2988 2031.2 L2982.9 2038.1 L2990.8 2041.6 L2976.5 2039.8 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M2720.3 1572.5 L2719 1592.5 L2719 1969 L2719 1969 " style="stroke:#33322E;fill:none;"></path>
+<path d="M2713.7 1955.7 L2719 1962.3 L2724.3 1955.7 L2719 1969 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M2078.5 624.9 L1466 994.5 L1466 1169.5 L1466 1169.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M1460.7 1156.2 L1466 1162.8 L1471.3 1156.2 L1466 1169.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M4614 680 L4614 994.5 L5647.8 1246.4 L5647.8 1246.4 " style="stroke:#33322E;fill:none;"></path>
+<path d="M5633.5 1248.4 L5641.3 1244.8 L5636.1 1238 L5647.8 1246.4 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M6228.3 879.2 L6154.8 994.5 L6034.8 1108.9 L6034.8 1108.9 " style="stroke:#33322E;fill:none;"></path>
+<path d="M6040.7 1095.9 L6039.6 1104.3 L6048.1 1103.6 L6034.8 1108.9 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M2078.5 757.3 L1883 994.5 L1883 1200.5 L1883 1200.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M1877.7 1187.2 L1883 1193.8 L1888.3 1187.2 L1883 1200.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M2295.5 974.5 L2295.5 994.5 L2295.5 1200.5 L2295.5 1200.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M2290.2 1187.2 L2295.5 1193.8 L2300.8 1187.2 L2295.5 1200.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M2512.5 606 L3265 994.5 L3265 1200.5 L3265 1200.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M3259.7 1187.2 L3265 1193.8 L3270.3 1187.2 L3265 1200.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M6228.3 836.3 L6114.8 994.5 L5138 1238.1 L5138 1238.1 " style="stroke:#33322E;fill:none;"></path>
+<path d="M5149.6 1229.7 L5144.5 1236.5 L5152.2 1240.1 L5138 1238.1 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M2512.5 574.2 L3650.5 994.5 L4694 1241 L4694 1241 " style="stroke:#33322E;fill:none;"></path>
+<path d="M4679.8 1243.2 L4687.5 1239.5 L4682.3 1232.8 L4694 1241 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M6228.3 802 L6074.8 994.5 L6074.8 1592.5 L6074.8 1592.5 L3706 2069.5 L3706 2069.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M3718 2061.7 L3712.5 2068.2 L3720.1 2072.1 L3706 2069.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M2512.5 583.2 L3512.5 994.5 L3512.5 1592.5 L3512.5 1592.5 L3512.5 1938 L3512.5 1938 " style="stroke:#33322E;fill:none;"></path>
+<path d="M3507.2 1924.7 L3512.5 1931.3 L3517.8 1924.7 L3512.5 1938 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M2757.7 1572.5 L2759 1592.5 L3319 1976 L3319 1976 " style="stroke:#33322E;fill:none;"></path>
+<path d="M3305 1972.9 L3313.5 1972.2 L3311 1964.1 L3319 1976 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M3505.9 2279 L3492.5 2624.5 L3589.1 2691 L3589.1 2691 " style="stroke:#33322E;fill:none;"></path>
+<path d="M3575.1 2687.8 L3583.6 2687.2 L3581.2 2679 L3589.1 2691 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M3519.1 2279 L3532.5 2624.5 L6028.5 2773 L6028.5 2773 " style="stroke:#33322E;fill:none;"></path>
+<path d="M6014.9 2777.6 L6021.8 2772.7 L6015.5 2766.9 L6028.5 2773 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M6473.3 897 L6473.3 994.5 L6473.3 2624.5 L6473.3 2624.5 L6396.5 2671.4 L6396.5 2671.4 " style="stroke:#33322E;fill:none;"></path>
+<path d="M6405.1 2659.9 L6402.2 2668 L6410.7 2669 L6396.5 2671.4 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M5647.8 1484.9 L5539 1592.5 L5539 1969 L5539 1969 " style="stroke:#33322E;fill:none;"></path>
+<path d="M5533.7 1955.7 L5539 1962.3 L5544.3 1955.7 L5539 1969 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M2519.5 1378.9 L1970.8 1592.5 L1970.8 2624.5 L1970.8 2624.5 L2737.3 2751.9 L2737.3 2751.9 " style="stroke:#33322E;fill:none;"></path>
+<path d="M2723.2 2754.9 L2730.7 2750.8 L2725 2744.4 L2737.3 2751.9 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M6228.3 588.8 L5178 994.5 L5178 2624.5 L5178 2624.5 L3124.3 2770.3 L3124.3 2770.3 " style="stroke:#33322E;fill:none;"></path>
+<path d="M3137.2 2764 L3130.9 2769.8 L3137.9 2774.6 L3124.3 2770.3 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M2719 2248 L2719 2624.5 L2766.1 2660 L2766.1 2660 " style="stroke:#33322E;fill:none;"></path>
+<path d="M2752.3 2656.2 L2760.8 2656 L2758.7 2647.7 L2766.1 2660 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<rect x="6993.5" y="1123.5" height="341" width="387" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="7153.8" y="1145" style="">Address</text>
+<path d="M6993.5 1154.5 L7380.5 1154.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7001.5" y="1176" style="">ID::int(11)</text>
+<path d="M6993.5 1185.5 L7380.5 1185.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7001.5" y="1207" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M6993.5 1216.5 L7380.5 1216.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7001.5" y="1238" style="">UserID::int(11)</text>
+<path d="M6993.5 1247.5 L7380.5 1247.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7001.5" y="1269" style="">Street::varchar(45)</text>
+<path d="M6993.5 1278.5 L7380.5 1278.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7001.5" y="1300" style="">City::varchar(45)</text>
+<path d="M6993.5 1309.5 L7380.5 1309.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7001.5" y="1331" style="">Province::varchar(45)</text>
+<path d="M6993.5 1340.5 L7380.5 1340.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7001.5" y="1362" style="">Zipcode::varchar(45)</text>
+<path d="M6993.5 1371.5 L7380.5 1371.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7001.5" y="1393" style="">Category::int(11)</text>
+<path d="M6993.5 1402.5 L7380.5 1402.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7001.5" y="1424" style="">Status::int(11)</text>
+<path d="M6993.5 1433.5 L7380.5 1433.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7001.5" y="1455" style="">Country::int(4)CreatedAt::decimal(13,3)</text>
+<rect x="6585.5" y="1169.5" height="248" width="368" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="6745.8" y="1191" style="">Board</text>
+<path d="M6585.5 1200.5 L6953.5 1200.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6593.5" y="1222" style="">ID::int(11)</text>
+<path d="M6585.5 1231.5 L6953.5 1231.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6593.5" y="1253" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M6585.5 1262.5 L6953.5 1262.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6593.5" y="1284" style="">UserID::int(11)</text>
+<path d="M6585.5 1293.5 L6953.5 1293.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6593.5" y="1315" style="">Category::int(11)</text>
+<path d="M6585.5 1324.5 L6953.5 1324.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6593.5" y="1346" style="">Status::int(11)</text>
+<path d="M6585.5 1355.5 L6953.5 1355.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6593.5" y="1377" style="">Theme::varchar(45)</text>
+<path d="M6585.5 1386.5 L6953.5 1386.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6593.5" y="1408" style="">Content::textCreatedAt::decimal(13,3)</text>
+<rect x="6513.5" y="2015.5" height="186" width="472" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="6702" y="2037" style="">BoardImage</text>
+<path d="M6513.5 2046.5 L6985.5 2046.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6521.5" y="2068" style="">ID::int(10)</text>
+<path d="M6513.5 2077.5 L6985.5 2077.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6521.5" y="2099" style="">BoardID::int(10)</text>
+<path d="M6513.5 2108.5 L6985.5 2108.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6521.5" y="2130" style="">Status::int(10)</text>
+<path d="M6513.5 2139.5 L6985.5 2139.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6521.5" y="2161" style="">CreatedAt::decimal(13,3)</text>
+<path d="M6513.5 2170.5 L6985.5 2170.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6521.5" y="2192" style="">UpdatedAt::decimal(13,3)CreatedAt::decimal(13,3)</text>
+<rect x="7886.5" y="1969.5" height="279" width="368" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="8023" y="1991" style="">BoardReply</text>
+<path d="M7886.5 2000.5 L8254.5 2000.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7894.5" y="2022" style="">ID::int(11)</text>
+<path d="M7886.5 2031.5 L8254.5 2031.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7894.5" y="2053" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M7886.5 2062.5 L8254.5 2062.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7894.5" y="2084" style="">BoardID::int(11)</text>
+<path d="M7886.5 2093.5 L8254.5 2093.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7894.5" y="2115" style="">UserID::int(11)</text>
+<path d="M7886.5 2124.5 L8254.5 2124.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7894.5" y="2146" style="">Category::int(11)</text>
+<path d="M7886.5 2155.5 L8254.5 2155.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7894.5" y="2177" style="">Status::int(11)</text>
+<path d="M7886.5 2186.5 L8254.5 2186.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7894.5" y="2208" style="">Theme::varchar(45)</text>
+<path d="M7886.5 2217.5 L8254.5 2217.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7894.5" y="2239" style="">Content::textCreatedAt::decimal(13,3)</text>
+<rect x="4411.5" y="308.5" height="372" width="406" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="4595.5" y="330" style="">Card</text>
+<path d="M4411.5 339.5 L4817.5 339.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4419.5" y="361" style="">ID::int(11)</text>
+<path d="M4411.5 370.5 L4817.5 370.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4419.5" y="392" style="">Category::int(11)</text>
+<path d="M4411.5 401.5 L4817.5 401.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4419.5" y="423" style="">BillingKey::varchar(45)</text>
+<path d="M4411.5 432.5 L4817.5 432.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4419.5" y="454" style="">Status::int(11)</text>
+<path d="M4411.5 463.5 L4817.5 463.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4419.5" y="485" style="">CreatedAt::decimal(13,3)</text>
+<path d="M4411.5 494.5 L4817.5 494.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4419.5" y="516" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M4411.5 525.5 L4817.5 525.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4419.5" y="547" style="">LastFour::varchar(45)</text>
+<path d="M4411.5 556.5 L4817.5 556.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4419.5" y="578" style="">CardBrand::int(11)</text>
+<path d="M4411.5 587.5 L4817.5 587.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4419.5" y="609" style="">ExpMonth::int(11)</text>
+<path d="M4411.5 618.5 L4817.5 618.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4419.5" y="640" style="">ExpYear::int(11)</text>
+<path d="M4411.5 649.5 L4817.5 649.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4419.5" y="671" style="">Name::varchar(45)CreatedAt::decimal(13,3)</text>
+<rect x="784.5" y="1169.5" height="248" width="453" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="973" y="1191" style="">CartItem</text>
+<path d="M784.5 1200.5 L1237.5 1200.5" style="stroke:#33322E;fill:none;"></path>
+<text x="792.5" y="1222" style="">ID::int(11)</text>
+<path d="M784.5 1231.5 L1237.5 1231.5" style="stroke:#33322E;fill:none;"></path>
+<text x="792.5" y="1253" style="">ProductID::int(11)</text>
+<path d="M784.5 1262.5 L1237.5 1262.5" style="stroke:#33322E;fill:none;"></path>
+<text x="792.5" y="1284" style="">Status::int(11)</text>
+<path d="M784.5 1293.5 L1237.5 1293.5" style="stroke:#33322E;fill:none;"></path>
+<text x="792.5" y="1315" style="">Count::int(11)</text>
+<path d="M784.5 1324.5 L1237.5 1324.5" style="stroke:#33322E;fill:none;"></path>
+<text x="792.5" y="1346" style="">CreatedAt::decimal(13,3)</text>
+<path d="M784.5 1355.5 L1237.5 1355.5" style="stroke:#33322E;fill:none;"></path>
+<text x="792.5" y="1377" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M784.5 1386.5 L1237.5 1386.5" style="stroke:#33322E;fill:none;"></path>
+<text x="792.5" y="1408" style="">ShareCode::varchar(45)CreatedAt::decimal(13,3)</text>
+<rect x="13.5" y="401.5" height="186" width="472" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="211.5" y="423" style="">Category</text>
+<path d="M13.5 432.5 L485.5 432.5" style="stroke:#33322E;fill:none;"></path>
 <text x="21.5" y="454" style="">ID::int(11)</text>
-<path d="M13.5 463.5 L257.5 463.5" style="stroke:#33322E;fill:none;"></path>
+<path d="M13.5 463.5 L485.5 463.5" style="stroke:#33322E;fill:none;"></path>
 <text x="21.5" y="485" style="">Status::int(11)</text>
-<path d="M13.5 494.5 L257.5 494.5" style="stroke:#33322E;fill:none;"></path>
+<path d="M13.5 494.5 L485.5 494.5" style="stroke:#33322E;fill:none;"></path>
 <text x="21.5" y="516" style="">ImageURL::text</text>
-<path d="M13.5 525.5 L257.5 525.5" style="stroke:#33322E;fill:none;"></path>
+<path d="M13.5 525.5 L485.5 525.5" style="stroke:#33322E;fill:none;"></path>
 <text x="21.5" y="547" style="">CreatedAt::decimal(13,3)</text>
-<path d="M13.5 556.5 L257.5 556.5" style="stroke:#33322E;fill:none;"></path>
-<text x="21.5" y="578" style="">UpdatedAt::decimal(13,3)</text>
-<rect x="215.5" y="1216.5" height="155" width="244" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="266.3" y="1238" style="">CategoryProduct</text>
-<path d="M215.5 1247.5 L459.5 1247.5" style="stroke:#33322E;fill:none;"></path>
-<text x="223.5" y="1269" style="">ID::int(11)</text>
-<path d="M215.5 1278.5 L459.5 1278.5" style="stroke:#33322E;fill:none;"></path>
-<text x="223.5" y="1300" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M215.5 1309.5 L459.5 1309.5" style="stroke:#33322E;fill:none;"></path>
-<text x="223.5" y="1331" style="">CategoryID::int(11)</text>
-<path d="M215.5 1340.5 L459.5 1340.5" style="stroke:#33322E;fill:none;"></path>
-<text x="223.5" y="1362" style="">ProductID::int(11)</text>
-<rect x="4940.5" y="1953.5" height="310" width="254" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="5039" y="1975" style="">Coupon</text>
-<path d="M4940.5 1984.5 L5194.5 1984.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4948.5" y="2006" style="">ID::int(11)</text>
-<path d="M4940.5 2015.5 L5194.5 2015.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4948.5" y="2037" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M4940.5 2046.5 L5194.5 2046.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4948.5" y="2068" style="">UserID::int(11)</text>
-<path d="M4940.5 2077.5 L5194.5 2077.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4948.5" y="2099" style="">CouponCategoryID::int(11)</text>
-<path d="M4940.5 2108.5 L5194.5 2108.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4948.5" y="2130" style="">Status::int(11)</text>
-<path d="M4940.5 2139.5 L5194.5 2139.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4948.5" y="2161" style="">StartsAt::decimal(13,3)</text>
-<path d="M4940.5 2170.5 L5194.5 2170.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4948.5" y="2192" style="">EndsAt::decimal(13,3)</text>
-<path d="M4940.5 2201.5 L5194.5 2201.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4948.5" y="2223" style="">Quantity::int(11)</text>
-<path d="M4940.5 2232.5 L5194.5 2232.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4948.5" y="2254" style="">PaymentID::int(11)</text>
-<rect x="5350.5" y="277.5" height="434" width="244" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="5406" y="299" style="">CouponCategory</text>
-<path d="M5350.5 308.5 L5594.5 308.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5358.5" y="330" style="">ID::int(11)</text>
-<path d="M5350.5 339.5 L5594.5 339.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5358.5" y="361" style="">TollValue::int(11)</text>
-<path d="M5350.5 370.5 L5594.5 370.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5358.5" y="392" style="">DiscountValue::float</text>
-<path d="M5350.5 401.5 L5594.5 401.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5358.5" y="423" style="">ImageURL::text</text>
-<path d="M5350.5 432.5 L5594.5 432.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5358.5" y="454" style="">Name::varchar(45)</text>
-<path d="M5350.5 463.5 L5594.5 463.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5358.5" y="485" style="">Description::text</text>
-<path d="M5350.5 494.5 L5594.5 494.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5358.5" y="516" style="">Duration::int(11)</text>
-<path d="M5350.5 525.5 L5594.5 525.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5358.5" y="547" style="">CreatedAt::decimal(13,3)</text>
-<path d="M5350.5 556.5 L5594.5 556.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5358.5" y="578" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M5350.5 587.5 L5594.5 587.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5358.5" y="609" style="">Price::decimal(10,2)</text>
-<path d="M5350.5 618.5 L5594.5 618.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5358.5" y="640" style="">Status::int(11)</text>
-<path d="M5350.5 649.5 L5594.5 649.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5358.5" y="671" style="">Quantity::int(11)</text>
-<path d="M5350.5 680.5 L5594.5 680.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5358.5" y="702" style="">BonusQuantity::int(11)</text>
-<rect x="5130.5" y="1169.5" height="248" width="282" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="5176.5" y="1191" style="">CouponCategoryReward</text>
-<path d="M5130.5 1200.5 L5412.5 1200.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5138.5" y="1222" style="">ID::int(11)</text>
-<path d="M5130.5 1231.5 L5412.5 1231.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5138.5" y="1253" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M5130.5 1262.5 L5412.5 1262.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5138.5" y="1284" style="">UserID::int(11)</text>
-<path d="M5130.5 1293.5 L5412.5 1293.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5138.5" y="1315" style="">CouponCategoryID::int(11)</text>
-<path d="M5130.5 1324.5 L5412.5 1324.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5138.5" y="1346" style="">PurchasePrice::decimal(10,2)</text>
-<path d="M5130.5 1355.5 L5412.5 1355.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5138.5" y="1377" style="">Status::int(10)</text>
-<path d="M5130.5 1386.5 L5412.5 1386.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5138.5" y="1408" style="">EndsAt::decimal(13,3)</text>
-<rect x="3781.5" y="1612.5" height="992" width="349" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="3894.3" y="1634" style="">DeliveryGroup</text>
-<path d="M3781.5 1643.5 L4130.5 1643.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="1665" style="">ID::int(10)</text>
-<path d="M3781.5 1674.5 L4130.5 1674.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="1696" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M3781.5 1705.5 L4130.5 1705.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="1727" style="">DeliveryNumber::varchar(150)</text>
-<path d="M3781.5 1736.5 L4130.5 1736.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="1758" style="">DeliveryCompany::varchar(150)</text>
-<path d="M3781.5 1767.5 L4130.5 1767.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="1789" style="">DeliveryHistory::text</text>
-<path d="M3781.5 1798.5 L4130.5 1798.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="1820" style="">DeliveryRequest::text</text>
-<path d="M3781.5 1829.5 L4130.5 1829.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="1851" style="">RecipientName::varchar(45)</text>
-<path d="M3781.5 1860.5 L4130.5 1860.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="1882" style="">RecipientPhone::varchar(45)</text>
-<path d="M3781.5 1891.5 L4130.5 1891.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="1913" style="">Review::text</text>
-<path d="M3781.5 1922.5 L4130.5 1922.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="1944" style="">ShippingStreet::varchar(200)</text>
-<path d="M3781.5 1953.5 L4130.5 1953.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="1975" style="">ShippingCity::varchar(45)</text>
-<path d="M3781.5 1984.5 L4130.5 1984.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="2006" style="">ShippingProvince::varchar(45)</text>
-<path d="M3781.5 2015.5 L4130.5 2015.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="2037" style="">ShippingZipcode::varchar(45)</text>
-<path d="M3781.5 2046.5 L4130.5 2046.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="2068" style="">CancellationReason::text</text>
-<path d="M3781.5 2077.5 L4130.5 2077.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="2099" style="">Rating::decimal(5,2)</text>
-<path d="M3781.5 2108.5 L4130.5 2108.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="2130" style="">UserID::int(10)</text>
-<path d="M3781.5 2139.5 L4130.5 2139.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="2161" style="">PaymentID::int(10)</text>
-<path d="M3781.5 2170.5 L4130.5 2170.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="2192" style="">DeliveryDate::decimal(13,3)</text>
-<path d="M3781.5 2201.5 L4130.5 2201.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="2223" style="">FulfillmentDate::decimal(13,3)</text>
-<path d="M3781.5 2232.5 L4130.5 2232.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="2254" style="">Status::int(10)</text>
-<path d="M3781.5 2263.5 L4130.5 2263.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="2285" style="">CancellationType::int(10)</text>
-<path d="M3781.5 2294.5 L4130.5 2294.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="2316" style="">TollPenalty::int(10)</text>
-<path d="M3781.5 2325.5 L4130.5 2325.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="2347" style="">DeliveryStatus::int(10)</text>
-<path d="M3781.5 2356.5 L4130.5 2356.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="2378" style="">Category::int(10)</text>
-<path d="M3781.5 2387.5 L4130.5 2387.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="2409" style="">LotteryID::int(10)</text>
-<path d="M3781.5 2418.5 L4130.5 2418.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="2440" style="">ShippingInfoDeadline::decimal(13,3)</text>
-<path d="M3781.5 2449.5 L4130.5 2449.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="2471" style="">TollDiscount::int(10)</text>
-<path d="M3781.5 2480.5 L4130.5 2480.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="2502" style="">TollPayment::int(10)</text>
-<path d="M3781.5 2511.5 L4130.5 2511.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="2533" style="">PreviousTollAmount::int(10)</text>
-<path d="M3781.5 2542.5 L4130.5 2542.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="2564" style="">DeliveryFee::decimal(10,2)</text>
-<path d="M3781.5 2573.5 L4130.5 2573.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3789.5" y="2595" style="">ShippingCountry::int(4)</text>
-<rect x="3574.5" y="2660.5" height="248" width="358" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="3696.5" y="2682" style="">DeliveryItem</text>
-<path d="M3574.5 2691.5 L3932.5 2691.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3582.5" y="2713" style="">ID::int(10)</text>
-<path d="M3574.5 2722.5 L3932.5 2722.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3582.5" y="2744" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M3574.5 2753.5 L3932.5 2753.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3582.5" y="2775" style="">ProductID::int(10)</text>
-<path d="M3574.5 2784.5 L3932.5 2784.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3582.5" y="2806" style="">DeliveryGroupID::int(10)</text>
-<path d="M3574.5 2815.5 L3932.5 2815.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3582.5" y="2837" style="">Quantity::int(10)</text>
-<path d="M3574.5 2846.5 L3932.5 2846.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3582.5" y="2868" style="">ProductReviewDeadline::decimal(13,3)</text>
-<path d="M3574.5 2877.5 L3932.5 2877.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3582.5" y="2899" style="">LotteryReviewDeadline::decimal(13,3)</text>
-<rect x="2301.5" y="1216.5" height="155" width="244" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="2338" y="1238" style="">DeliveryItemOption</text>
-<path d="M2301.5 1247.5 L2545.5 1247.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2309.5" y="1269" style="">ID::int(11)</text>
-<path d="M2301.5 1278.5 L2545.5 1278.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2309.5" y="1300" style="">ProductOptionID::int(11)</text>
-<path d="M2301.5 1309.5 L2545.5 1309.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2309.5" y="1331" style="">CreatedAt::decimal(13,3)</text>
-<path d="M2301.5 1340.5 L2545.5 1340.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2309.5" y="1362" style="">UpdatedAt::decimal(13,3)</text>
-<rect x="668.5" y="401.5" height="186" width="244" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="714.5" y="423" style="">FiatExchangeRate</text>
-<path d="M668.5 432.5 L912.5 432.5" style="stroke:#33322E;fill:none;"></path>
-<text x="676.5" y="454" style="">ID::int(11)</text>
-<path d="M668.5 463.5 L912.5 463.5" style="stroke:#33322E;fill:none;"></path>
-<text x="676.5" y="485" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M668.5 494.5 L912.5 494.5" style="stroke:#33322E;fill:none;"></path>
-<text x="676.5" y="516" style="">KRW::float</text>
-<path d="M668.5 525.5 L912.5 525.5" style="stroke:#33322E;fill:none;"></path>
-<text x="676.5" y="547" style="">USD::float</text>
-<path d="M668.5 556.5 L912.5 556.5" style="stroke:#33322E;fill:none;"></path>
-<text x="676.5" y="578" style="">Category::int(11)</text>
-<rect x="4103.5" y="2963.5" height="434" width="292" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="4211.5" y="2985" style="">LineItem</text>
-<path d="M4103.5 2994.5 L4395.5 2994.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4111.5" y="3016" style="">ID::int(10)</text>
-<path d="M4103.5 3025.5 L4395.5 3025.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4111.5" y="3047" style="">MerchantID::varchar(250)</text>
-<path d="M4103.5 3056.5 L4395.5 3056.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4111.5" y="3078" style="">ProductID::int(10)</text>
-<path d="M4103.5 3087.5 L4395.5 3087.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4111.5" y="3109" style="">CouponID::int(10)</text>
-<path d="M4103.5 3118.5 L4395.5 3118.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4111.5" y="3140" style="">Title::varchar(250)</text>
-<path d="M4103.5 3149.5 L4395.5 3149.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4111.5" y="3171" style="">Amount::decimal(10,2)</text>
-<path d="M4103.5 3180.5 L4395.5 3180.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4111.5" y="3202" style="">TollAmount::int(10)</text>
-<path d="M4103.5 3211.5 L4395.5 3211.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4111.5" y="3233" style="">DiscountAmount::decimal(10,2)</text>
-<path d="M4103.5 3242.5 L4395.5 3242.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4111.5" y="3264" style="">DiscountTollAmount::int(10)</text>
-<path d="M4103.5 3273.5 L4395.5 3273.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4111.5" y="3295" style="">Quantity::int(10)</text>
-<path d="M4103.5 3304.5 L4395.5 3304.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4111.5" y="3326" style="">CreatedAt::decimal(13,3)</text>
-<path d="M4103.5 3335.5 L4395.5 3335.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4111.5" y="3357" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M4103.5 3366.5 L4395.5 3366.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4111.5" y="3388" style="">DeliveryItemID::int(10)</text>
-<rect x="1635.5" y="1014.5" height="558" width="254" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="1729.3" y="1036" style="">Lottery</text>
-<path d="M1635.5 1045.5 L1889.5 1045.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1643.5" y="1067" style="">ID::int(11)</text>
-<path d="M1635.5 1076.5 L1889.5 1076.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1643.5" y="1098" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M1635.5 1107.5 L1889.5 1107.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1643.5" y="1129" style="">ProductID::int(11)</text>
-<path d="M1635.5 1138.5 L1889.5 1138.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1643.5" y="1160" style="">Status::int(11)</text>
-<path d="M1635.5 1169.5 L1889.5 1169.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1643.5" y="1191" style="">StartsAt::decimal(13,3)</text>
-<path d="M1635.5 1200.5 L1889.5 1200.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1643.5" y="1222" style="">EndsAt::decimal(13,3)</text>
-<path d="M1635.5 1231.5 L1889.5 1231.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1643.5" y="1253" style="">MinToll::int(11)</text>
-<path d="M1635.5 1262.5 L1889.5 1262.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1643.5" y="1284" style="">MaxToll::int(11)</text>
-<path d="M1635.5 1293.5 L1889.5 1293.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1643.5" y="1315" style="">MinParticipants::int(11)</text>
-<path d="M1635.5 1324.5 L1889.5 1324.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1643.5" y="1346" style="">MaxParticipants::int(11)</text>
-<path d="M1635.5 1355.5 L1889.5 1355.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1643.5" y="1377" style="">Quantity::int(10)</text>
-<path d="M1635.5 1386.5 L1889.5 1386.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1643.5" y="1408" style="">WinnerCount::int(10)</text>
-<path d="M1635.5 1417.5 L1889.5 1417.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1643.5" y="1439" style="">TollPrice::int(10)</text>
-<path d="M1635.5 1448.5 L1889.5 1448.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1643.5" y="1470" style="">ViewCount::int(10)</text>
-<path d="M1635.5 1479.5 L1889.5 1479.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1643.5" y="1501" style="">ParticipantCount::int(10)</text>
-<path d="M1635.5 1510.5 L1889.5 1510.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1643.5" y="1532" style="">TollAmount::int(10)</text>
-<path d="M1635.5 1541.5 L1889.5 1541.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1643.5" y="1563" style="">WinningTickets::text</text>
-<rect x="1599.5" y="1969.5" height="279" width="287" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="1690.8" y="1991" style="">LotteryUser</text>
-<path d="M1599.5 2000.5 L1886.5 2000.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1607.5" y="2022" style="">ID::int(11)</text>
-<path d="M1599.5 2031.5 L1886.5 2031.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1607.5" y="2053" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M1599.5 2062.5 L1886.5 2062.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1607.5" y="2084" style="">UserID::int(11)</text>
-<path d="M1599.5 2093.5 L1886.5 2093.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1607.5" y="2115" style="">LotteryID::int(11)</text>
-<path d="M1599.5 2124.5 L1886.5 2124.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1607.5" y="2146" style="">Status::int(11)</text>
-<path d="M1599.5 2155.5 L1886.5 2155.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1607.5" y="2177" style="">TollAmount::int(11)</text>
-<path d="M1599.5 2186.5 L1886.5 2186.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1607.5" y="2208" style="">RewardEndsAt::decimal(13,3)</text>
-<path d="M1599.5 2217.5 L1886.5 2217.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1607.5" y="2239" style="">WinningTickets::varchar(500)</text>
-<rect x="783.5" y="1169.5" height="248" width="244" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="855.8" y="1191" style="">MassCoupon</text>
-<path d="M783.5 1200.5 L1027.5 1200.5" style="stroke:#33322E;fill:none;"></path>
-<text x="791.5" y="1222" style="">ID::int(11)</text>
-<path d="M783.5 1231.5 L1027.5 1231.5" style="stroke:#33322E;fill:none;"></path>
-<text x="791.5" y="1253" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M783.5 1262.5 L1027.5 1262.5" style="stroke:#33322E;fill:none;"></path>
-<text x="791.5" y="1284" style="">ProductID::int(11)</text>
-<path d="M783.5 1293.5 L1027.5 1293.5" style="stroke:#33322E;fill:none;"></path>
-<text x="791.5" y="1315" style="">Status::int(11)</text>
-<path d="M783.5 1324.5 L1027.5 1324.5" style="stroke:#33322E;fill:none;"></path>
-<text x="791.5" y="1346" style="">StartsAt::decimal(13,3)</text>
-<path d="M783.5 1355.5 L1027.5 1355.5" style="stroke:#33322E;fill:none;"></path>
-<text x="791.5" y="1377" style="">EndsAt::decimal(13,3)</text>
-<path d="M783.5 1386.5 L1027.5 1386.5" style="stroke:#33322E;fill:none;"></path>
-<text x="791.5" y="1408" style="">Value::int(11)</text>
-<rect x="3664.5" y="1076.5" height="434" width="282" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="3772.3" y="1098" style="">Payment</text>
-<path d="M3664.5 1107.5 L3946.5 1107.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3672.5" y="1129" style="">ID::int(11)</text>
-<path d="M3664.5 1138.5 L3946.5 1138.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3672.5" y="1160" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M3664.5 1169.5 L3946.5 1169.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3672.5" y="1191" style="">CardID::int(11)</text>
-<path d="M3664.5 1200.5 L3946.5 1200.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3672.5" y="1222" style="">Category::int(11)</text>
-<path d="M3664.5 1231.5 L3946.5 1231.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3672.5" y="1253" style="">Amount::decimal(10,2)</text>
-<path d="M3664.5 1262.5 L3946.5 1262.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3672.5" y="1284" style="">TollAmount::int(11)</text>
-<path d="M3664.5 1293.5 L3946.5 1293.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3672.5" y="1315" style="">PaymentMethod::int(11)</text>
-<path d="M3664.5 1324.5 L3946.5 1324.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3672.5" y="1346" style="">Status::int(11)</text>
-<path d="M3664.5 1355.5 L3946.5 1355.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3672.5" y="1377" style="">Description::text</text>
-<path d="M3664.5 1386.5 L3946.5 1386.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3672.5" y="1408" style="">VBankName::varchar(45)</text>
-<path d="M3664.5 1417.5 L3946.5 1417.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3672.5" y="1439" style="">VBankNumber::varchar(45)</text>
-<path d="M3664.5 1448.5 L3946.5 1448.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3672.5" y="1470" style="">TransactionKey::varchar(255)</text>
-<path d="M3664.5 1479.5 L3946.5 1479.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3672.5" y="1501" style="">UserID::int(11)</text>
-<rect x="1323.5" y="13.5" height="961" width="301" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="1440.8" y="35" style="">Product</text>
-<path d="M1323.5 44.5 L1624.5 44.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="66" style="">ID::int(11)</text>
-<path d="M1323.5 75.5 L1624.5 75.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="97" style="">Description::text</text>
-<path d="M1323.5 106.5 L1624.5 106.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="128" style="">Status::int(11)</text>
-<path d="M1323.5 137.5 L1624.5 137.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="159" style="">Position::int(11)</text>
-<path d="M1323.5 168.5 L1624.5 168.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="190" style="">Category::int(11)</text>
-<path d="M1323.5 199.5 L1624.5 199.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="221" style="">DeliveryMethod::int(11)</text>
-<path d="M1323.5 230.5 L1624.5 230.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="252" style="">MaxDiscount::decimal(10,2)</text>
-<path d="M1323.5 261.5 L1624.5 261.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="283" style="">SourcingOrigin::text</text>
-<path d="M1323.5 292.5 L1624.5 292.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="314" style="">Thumbnail::text</text>
-<path d="M1323.5 323.5 L1624.5 323.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="345" style="">ImageURL::text</text>
-<path d="M1323.5 354.5 L1624.5 354.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="376" style="">Stock::int(11)</text>
-<path d="M1323.5 385.5 L1624.5 385.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="407" style="">Merchant::varchar(45)</text>
-<path d="M1323.5 416.5 L1624.5 416.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="438" style="">Domestic::int(11)</text>
-<path d="M1323.5 447.5 L1624.5 447.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="469" style="">CreatedAt::decimal(13,3)</text>
-<path d="M1323.5 478.5 L1624.5 478.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="500" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M1323.5 509.5 L1624.5 509.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="531" style="">ProductionPrice::decimal(10,2)</text>
-<path d="M1323.5 540.5 L1624.5 540.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="562" style="">SellPrice::decimal(10,2)</text>
-<path d="M1323.5 571.5 L1624.5 571.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="593" style="">FakePrice::decimal(10,2)</text>
-<path d="M1323.5 602.5 L1624.5 602.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="624" style="">MaxSalePrice::decimal(10,2)</text>
-<path d="M1323.5 633.5 L1624.5 633.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="655" style="">Color::int(10)</text>
-<path d="M1323.5 664.5 L1624.5 664.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="686" style="">Width::decimal(10,2)</text>
-<path d="M1323.5 695.5 L1624.5 695.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="717" style="">Length::decimal(10,2)</text>
-<path d="M1323.5 726.5 L1624.5 726.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="748" style="">Height::decimal(10,2)</text>
-<path d="M1323.5 757.5 L1624.5 757.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="779" style="">SourcingCountry::int(10)</text>
-<path d="M1323.5 788.5 L1624.5 788.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="810" style="">Handling::text</text>
-<path d="M1323.5 819.5 L1624.5 819.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="841" style="">QualityAssurance::text</text>
-<path d="M1323.5 850.5 L1624.5 850.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="872" style="">ASContact::text</text>
-<path d="M1323.5 881.5 L1624.5 881.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="903" style="">TollPrice::int(10)</text>
-<path d="M1323.5 912.5 L1624.5 912.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="934" style="">ViewCount::int(10)</text>
-<path d="M1323.5 943.5 L1624.5 943.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1331.5" y="965" style="">CouponLimit::int(11)</text>
-<rect x="1067.5" y="1200.5" height="186" width="244" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="1132.5" y="1222" style="">ProductImage</text>
-<path d="M1067.5 1231.5 L1311.5 1231.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1075.5" y="1253" style="">ID::int(11)</text>
-<path d="M1067.5 1262.5 L1311.5 1262.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1075.5" y="1284" style="">UpdatedAt::decimal(15,3)</text>
-<path d="M1067.5 1293.5 L1311.5 1293.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1075.5" y="1315" style="">ProductID::int(11)</text>
-<path d="M1067.5 1324.5 L1311.5 1324.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1075.5" y="1346" style="">Status::int(11)</text>
-<path d="M1067.5 1355.5 L1311.5 1355.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1075.5" y="1377" style="">ImageURL::text</text>
-<rect x="2301.5" y="370.5" height="248" width="244" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="2361.8" y="392" style="">ProductOption</text>
-<path d="M2301.5 401.5 L2545.5 401.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2309.5" y="423" style="">ID::int(11)</text>
-<path d="M2301.5 432.5 L2545.5 432.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2309.5" y="454" style="">Name::varchar(45)</text>
-<path d="M2301.5 463.5 L2545.5 463.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2309.5" y="485" style="">Description::text</text>
-<path d="M2301.5 494.5 L2545.5 494.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2309.5" y="516" style="">AddedCost::decimal(10,2)</text>
-<path d="M2301.5 525.5 L2545.5 525.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2309.5" y="547" style="">CreatedAt::decimal(13,3)</text>
-<path d="M2301.5 556.5 L2545.5 556.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2309.5" y="578" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M2301.5 587.5 L2545.5 587.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2309.5" y="609" style="">Status::int(10)</text>
-<rect x="1351.5" y="1200.5" height="186" width="244" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="1411.8" y="1222" style="">ProductPolicy</text>
-<path d="M1351.5 1231.5 L1595.5 1231.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1359.5" y="1253" style="">ID::int(11)</text>
-<path d="M1351.5 1262.5 L1595.5 1262.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1359.5" y="1284" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M1351.5 1293.5 L1595.5 1293.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1359.5" y="1315" style="">ProductID::int(11)</text>
-<path d="M1351.5 1324.5 L1595.5 1324.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1359.5" y="1346" style="">Category::int(11)</text>
-<path d="M1351.5 1355.5 L1595.5 1355.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1359.5" y="1377" style="">Content::text</text>
-<rect x="1977.5" y="1200.5" height="186" width="244" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="2028.3" y="1222" style="">ProductQuestion</text>
-<path d="M1977.5 1231.5 L2221.5 1231.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1985.5" y="1253" style="">ID::int(10)</text>
-<path d="M1977.5 1262.5 L2221.5 1262.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1985.5" y="1284" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M1977.5 1293.5 L2221.5 1293.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1985.5" y="1315" style="">Question::text</text>
-<path d="M1977.5 1324.5 L2221.5 1324.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1985.5" y="1346" style="">Answer::text</text>
-<path d="M1977.5 1355.5 L2221.5 1355.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1985.5" y="1377" style="">ProductID::int(10)</text>
-<rect x="3071.5" y="1169.5" height="248" width="282" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="3150.8" y="1191" style="">ProductReward</text>
-<path d="M3071.5 1200.5 L3353.5 1200.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3079.5" y="1222" style="">ID::int(11)</text>
-<path d="M3071.5 1231.5 L3353.5 1231.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3079.5" y="1253" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M3071.5 1262.5 L3353.5 1262.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3079.5" y="1284" style="">UserID::int(11)</text>
-<path d="M3071.5 1293.5 L3353.5 1293.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3079.5" y="1315" style="">ProductID::int(11)</text>
-<path d="M3071.5 1324.5 L3353.5 1324.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3079.5" y="1346" style="">PurchasePrice::decimal(10,2)</text>
-<path d="M3071.5 1355.5 L3353.5 1355.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3079.5" y="1377" style="">Status::int(10)</text>
-<path d="M3071.5 1386.5 L3353.5 1386.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3079.5" y="1408" style="">EndsAt::decimal(13,3)</text>
-<rect x="2139.5" y="1938.5" height="341" width="244" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="2233" y="1960" style="">Review</text>
-<path d="M2139.5 1969.5 L2383.5 1969.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2147.5" y="1991" style="">ID::int(11)</text>
-<path d="M2139.5 2000.5 L2383.5 2000.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2147.5" y="2022" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M2139.5 2031.5 L2383.5 2031.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2147.5" y="2053" style="">UserID::int(11)</text>
-<path d="M2139.5 2062.5 L2383.5 2062.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2147.5" y="2084" style="">ProductID::int(11)</text>
-<path d="M2139.5 2093.5 L2383.5 2093.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2147.5" y="2115" style="">LotteryID::int(11)</text>
-<path d="M2139.5 2124.5 L2383.5 2124.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2147.5" y="2146" style="">Category::int(11)</text>
-<path d="M2139.5 2155.5 L2383.5 2155.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2147.5" y="2177" style="">Status::int(11)</text>
-<path d="M2139.5 2186.5 L2383.5 2186.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2147.5" y="2208" style="">Theme::text</text>
-<path d="M2139.5 2217.5 L2383.5 2217.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2147.5" y="2239" style="">Content::text</text>
-<path d="M2139.5 2248.5 L2383.5 2248.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2147.5" y="2270" style="">Rating::int(11)</text>
-<rect x="2209.5" y="2691.5" height="186" width="244" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="2279.3" y="2713" style="">ReviewImage</text>
-<path d="M2209.5 2722.5 L2453.5 2722.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2217.5" y="2744" style="">ID::int(11)</text>
-<path d="M2209.5 2753.5 L2453.5 2753.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2217.5" y="2775" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M2209.5 2784.5 L2453.5 2784.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2217.5" y="2806" style="">ReviewID::int(11)</text>
-<path d="M2209.5 2815.5 L2453.5 2815.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2217.5" y="2837" style="">ImageURL::text</text>
-<path d="M2209.5 2846.5 L2453.5 2846.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2217.5" y="2868" style="">Status::int(11)</text>
-<rect x="3992.5" y="2644.5" height="279" width="244" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="4062.3" y="2666" style="">ReviewReply</text>
-<path d="M3992.5 2675.5 L4236.5 2675.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4000.5" y="2697" style="">ID::int(11)</text>
-<path d="M3992.5 2706.5 L4236.5 2706.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4000.5" y="2728" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M3992.5 2737.5 L4236.5 2737.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4000.5" y="2759" style="">ReviewID::int(11)</text>
-<path d="M3992.5 2768.5 L4236.5 2768.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4000.5" y="2790" style="">UserID::int(11)</text>
-<path d="M3992.5 2799.5 L4236.5 2799.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4000.5" y="2821" style="">Category::int(11)</text>
-<path d="M3992.5 2830.5 L4236.5 2830.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4000.5" y="2852" style="">Status::int(11)</text>
-<path d="M3992.5 2861.5 L4236.5 2861.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4000.5" y="2883" style="">Theme::varchar(45)</text>
-<path d="M3992.5 2892.5 L4236.5 2892.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4000.5" y="2914" style="">Content::text</text>
-<rect x="2585.5" y="292.5" height="403" width="244" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="2674.3" y="314" style="">Session</text>
-<path d="M2585.5 323.5 L2829.5 323.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2593.5" y="345" style="">ID::int(11)</text>
-<path d="M2585.5 354.5 L2829.5 354.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2593.5" y="376" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M2585.5 385.5 L2829.5 385.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2593.5" y="407" style="">Name::varchar(45)</text>
-<path d="M2585.5 416.5 L2829.5 416.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2593.5" y="438" style="">Nickname::varchar(45)</text>
-<path d="M2585.5 447.5 L2829.5 447.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2593.5" y="469" style="">Email::varchar(45)</text>
-<path d="M2585.5 478.5 L2829.5 478.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2593.5" y="500" style="">Password::varchar(45)</text>
-<path d="M2585.5 509.5 L2829.5 509.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2593.5" y="531" style="">Phone::varchar(45)</text>
-<path d="M2585.5 540.5 L2829.5 540.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2593.5" y="562" style="">Status::int(11)</text>
-<path d="M2585.5 571.5 L2829.5 571.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2593.5" y="593" style="">HashAccount::varchar(45)</text>
-<path d="M2585.5 602.5 L2829.5 602.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2593.5" y="624" style="">TollBalance::int(11)</text>
-<path d="M2585.5 633.5 L2829.5 633.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2593.5" y="655" style="">AuthID::varchar(45)</text>
-<path d="M2585.5 664.5 L2829.5 664.5" style="stroke:#33322E;fill:none;"></path>
-<text x="2593.5" y="686" style="">Token::text</text>
-<rect x="3494.5" y="1969.5" height="279" width="244" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="3540.5" y="1991" style="">ShareCodeHistory</text>
-<path d="M3494.5 2000.5 L3738.5 2000.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3502.5" y="2022" style="">ID::int(10)</text>
-<path d="M3494.5 2031.5 L3738.5 2031.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3502.5" y="2053" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M3494.5 2062.5 L3738.5 2062.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3502.5" y="2084" style="">GiverID::int(10)</text>
-<path d="M3494.5 2093.5 L3738.5 2093.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3502.5" y="2115" style="">ReceiverID::int(10)</text>
-<path d="M3494.5 2124.5 L3738.5 2124.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3502.5" y="2146" style="">Category::int(11)</text>
-<path d="M3494.5 2155.5 L3738.5 2155.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3502.5" y="2177" style="">RowID::int(10)</text>
-<path d="M3494.5 2186.5 L3738.5 2186.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3502.5" y="2208" style="">Platform::int(10)</text>
-<path d="M3494.5 2217.5 L3738.5 2217.5" style="stroke:#33322E;fill:none;"></path>
-<text x="3502.5" y="2239" style="">PaymentID::int(10)</text>
-<rect x="1690.5" y="2660.5" height="248" width="244" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="1784" y="2682" style="">Ticket</text>
-<path d="M1690.5 2691.5 L1934.5 2691.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1698.5" y="2713" style="">ID::int(10)</text>
-<path d="M1690.5 2722.5 L1934.5 2722.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1698.5" y="2744" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M1690.5 2753.5 L1934.5 2753.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1698.5" y="2775" style="">LotteryID::int(10)</text>
-<path d="M1690.5 2784.5 L1934.5 2784.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1698.5" y="2806" style="">UserID::int(10)</text>
-<path d="M1690.5 2815.5 L1934.5 2815.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1698.5" y="2837" style="">LotteryUserID::int(10)</text>
-<path d="M1690.5 2846.5 L1934.5 2846.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1698.5" y="2868" style="">TicketNumber::int(10)</text>
-<path d="M1690.5 2877.5 L1934.5 2877.5" style="stroke:#33322E;fill:none;"></path>
-<text x="1698.5" y="2899" style="">Status::int(10)</text>
-<rect x="4760.5" y="401.5" height="186" width="244" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="4806.5" y="423" style="">TollExchangeRate</text>
-<path d="M4760.5 432.5 L5004.5 432.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4768.5" y="454" style="">ID::int(11)</text>
-<path d="M4760.5 463.5 L5004.5 463.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4768.5" y="485" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M4760.5 494.5 L5004.5 494.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4768.5" y="516" style="">Toll::decimal(10,2)</text>
-<path d="M4760.5 525.5 L5004.5 525.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4768.5" y="547" style="">USD::decimal(10,2)</text>
-<path d="M4760.5 556.5 L5004.5 556.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4768.5" y="578" style="">Category::int(11)</text>
-<rect x="4073.5" y="91.5" height="806" width="406" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="4257.5" y="113" style="">User</text>
-<path d="M4073.5 122.5 L4479.5 122.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4081.5" y="144" style="">ID::int(11)</text>
-<path d="M4073.5 153.5 L4479.5 153.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4081.5" y="175" style="">Name::varchar(45)</text>
-<path d="M4073.5 184.5 L4479.5 184.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4081.5" y="206" style="">Nickname::varchar(45)</text>
-<path d="M4073.5 215.5 L4479.5 215.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4081.5" y="237" style="">Email::varchar(45)</text>
-<path d="M4073.5 246.5 L4479.5 246.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4081.5" y="268" style="">Password::varchar(45)</text>
-<path d="M4073.5 277.5 L4479.5 277.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4081.5" y="299" style="">Phone::varchar(45)</text>
-<path d="M4073.5 308.5 L4479.5 308.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4081.5" y="330" style="">Status::int(11)</text>
-<path d="M4073.5 339.5 L4479.5 339.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4081.5" y="361" style="">HashAccount::varchar(45)</text>
-<path d="M4073.5 370.5 L4479.5 370.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4081.5" y="392" style="">TollBalance::int(11)</text>
-<path d="M4073.5 401.5 L4479.5 401.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4081.5" y="423" style="">Flag::varchar(45)</text>
-<path d="M4073.5 432.5 L4479.5 432.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4081.5" y="454" style="">CreatedAt::decimal(13,3)</text>
-<path d="M4073.5 463.5 L4479.5 463.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4081.5" y="485" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M4073.5 494.5 L4479.5 494.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4081.5" y="516" style="">Profile::varchar(1000)</text>
-<path d="M4073.5 525.5 L4479.5 525.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4081.5" y="547" style="">OneSignalUserID::varchar(300)</text>
-<path d="M4073.5 556.5 L4479.5 556.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4081.5" y="578" style="">ShareCode::varchar(45)</text>
-<path d="M4073.5 587.5 L4479.5 587.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4081.5" y="609" style="">ShareReward::decimal(5,2)</text>
-<path d="M4073.5 618.5 L4479.5 618.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4081.5" y="640" style="">UnreadEventsLotteryParticipation::int(10)</text>
-<path d="M4073.5 649.5 L4479.5 649.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4081.5" y="671" style="">FirstCouponDeadline::decimal(13,3)</text>
-<path d="M4073.5 680.5 L4479.5 680.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4081.5" y="702" style="">UnreadEventsShopping::int(10)</text>
-<path d="M4073.5 711.5 L4479.5 711.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4081.5" y="733" style="">UnreadEventsCoupon::int(10)</text>
-<path d="M4073.5 742.5 L4479.5 742.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4081.5" y="764" style="">UnreadEventsSharing::int(10)</text>
-<path d="M4073.5 773.5 L4479.5 773.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4081.5" y="795" style="">StripeCustomerKey::varchar(45)</text>
-<path d="M4073.5 804.5 L4479.5 804.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4081.5" y="826" style="">SignInCount::int(10)</text>
-<path d="M4073.5 835.5 L4479.5 835.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4081.5" y="857" style="">EntryPlatform::int(10)</text>
-<path d="M4073.5 866.5 L4479.5 866.5" style="stroke:#33322E;fill:none;"></path>
-<text x="4081.5" y="888" style="">PhoneConfirmed::tinyint(1)</text>
-<rect x="5634.5" y="184.5" height="620" width="325" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="5754.3" y="206" style="">UserGroup</text>
-<path d="M5634.5 215.5 L5959.5 215.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5642.5" y="237" style="">ID::int(10)</text>
-<path d="M5634.5 246.5 L5959.5 246.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5642.5" y="268" style="">UpdatedAt::decimal(13,3)</text>
-<path d="M5634.5 277.5 L5959.5 277.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5642.5" y="299" style="">MinCreatedAt::decimal(13,3)</text>
-<path d="M5634.5 308.5 L5959.5 308.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5642.5" y="330" style="">MaxCreatedAt::decimal(13,3)</text>
-<path d="M5634.5 339.5 L5959.5 339.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5642.5" y="361" style="">MinActiveCoupons::int(10)</text>
-<path d="M5634.5 370.5 L5959.5 370.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5642.5" y="392" style="">MaxActiveCoupons::int(10)</text>
-<path d="M5634.5 401.5 L5959.5 401.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5642.5" y="423" style="">MinCouponPurchases::int(10)</text>
-<path d="M5634.5 432.5 L5959.5 432.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5642.5" y="454" style="">MaxCouponPurchases::int(10)</text>
-<path d="M5634.5 463.5 L5959.5 463.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5642.5" y="485" style="">MinTollBalance::int(10)</text>
-<path d="M5634.5 494.5 L5959.5 494.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5642.5" y="516" style="">MaxTollBalance::int(10)</text>
-<path d="M5634.5 525.5 L5959.5 525.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5642.5" y="547" style="">MinLotteryParticipation::int(10)</text>
-<path d="M5634.5 556.5 L5959.5 556.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5642.5" y="578" style="">MaxLotteryParticipation::int(10)</text>
-<path d="M5634.5 587.5 L5959.5 587.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5642.5" y="609" style="">MinLotteryWins::int(10)</text>
-<path d="M5634.5 618.5 L5959.5 618.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5642.5" y="640" style="">MaxLotteryWins::int(10)</text>
-<path d="M5634.5 649.5 L5959.5 649.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5642.5" y="671" style="">MinShareCodePurchases::int(10)</text>
-<path d="M5634.5 680.5 L5959.5 680.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5642.5" y="702" style="">MaxShareCodePurchases::int(10)</text>
-<path d="M5634.5 711.5 L5959.5 711.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5642.5" y="733" style="">MinSigninCount::int(10)</text>
-<path d="M5634.5 742.5 L5959.5 742.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5642.5" y="764" style="">MaxSigninCount::int(10)</text>
-<path d="M5634.5 773.5 L5959.5 773.5" style="stroke:#33322E;fill:none;"></path>
-<text x="5642.5" y="795" style="">EntryPlatform::int(10)</text></svg>
+<path d="M13.5 556.5 L485.5 556.5" style="stroke:#33322E;fill:none;"></path>
+<text x="21.5" y="578" style="">UpdatedAt::decimal(13,3)CreatedAt::decimal(13,3)</text>
+<rect x="329.5" y="1216.5" height="155" width="415" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="465.8" y="1238" style="">CategoryProduct</text>
+<path d="M329.5 1247.5 L744.5 1247.5" style="stroke:#33322E;fill:none;"></path>
+<text x="337.5" y="1269" style="">ID::int(11)</text>
+<path d="M329.5 1278.5 L744.5 1278.5" style="stroke:#33322E;fill:none;"></path>
+<text x="337.5" y="1300" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M329.5 1309.5 L744.5 1309.5" style="stroke:#33322E;fill:none;"></path>
+<text x="337.5" y="1331" style="">CategoryID::int(11)</text>
+<path d="M329.5 1340.5 L744.5 1340.5" style="stroke:#33322E;fill:none;"></path>
+<text x="337.5" y="1362" style="">ProductID::int(11)CreatedAt::decimal(13,3)</text>
+<rect x="7431.5" y="1953.5" height="310" width="415" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="7610.5" y="1975" style="">Coupon</text>
+<path d="M7431.5 1984.5 L7846.5 1984.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7439.5" y="2006" style="">ID::int(11)</text>
+<path d="M7431.5 2015.5 L7846.5 2015.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7439.5" y="2037" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M7431.5 2046.5 L7846.5 2046.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7439.5" y="2068" style="">UserID::int(11)</text>
+<path d="M7431.5 2077.5 L7846.5 2077.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7439.5" y="2099" style="">CouponCategoryID::int(11)</text>
+<path d="M7431.5 2108.5 L7846.5 2108.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7439.5" y="2130" style="">Status::int(11)</text>
+<path d="M7431.5 2139.5 L7846.5 2139.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7439.5" y="2161" style="">StartsAt::decimal(13,3)</text>
+<path d="M7431.5 2170.5 L7846.5 2170.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7439.5" y="2192" style="">EndsAt::decimal(13,3)</text>
+<path d="M7431.5 2201.5 L7846.5 2201.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7439.5" y="2223" style="">Quantity::int(11)</text>
+<path d="M7431.5 2232.5 L7846.5 2232.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7439.5" y="2254" style="">PaymentID::int(11)CreatedAt::decimal(13,3)</text>
+<rect x="7969.5" y="277.5" height="434" width="453" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="8129.5" y="299" style="">CouponCategory</text>
+<path d="M7969.5 308.5 L8422.5 308.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7977.5" y="330" style="">ID::int(11)</text>
+<path d="M7969.5 339.5 L8422.5 339.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7977.5" y="361" style="">TollValue::int(11)</text>
+<path d="M7969.5 370.5 L8422.5 370.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7977.5" y="392" style="">DiscountValue::float</text>
+<path d="M7969.5 401.5 L8422.5 401.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7977.5" y="423" style="">ImageURL::text</text>
+<path d="M7969.5 432.5 L8422.5 432.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7977.5" y="454" style="">Name::varchar(45)</text>
+<path d="M7969.5 463.5 L8422.5 463.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7977.5" y="485" style="">Description::text</text>
+<path d="M7969.5 494.5 L8422.5 494.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7977.5" y="516" style="">Duration::int(11)</text>
+<path d="M7969.5 525.5 L8422.5 525.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7977.5" y="547" style="">CreatedAt::decimal(13,3)</text>
+<path d="M7969.5 556.5 L8422.5 556.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7977.5" y="578" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M7969.5 587.5 L8422.5 587.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7977.5" y="609" style="">Price::decimal(10,2)</text>
+<path d="M7969.5 618.5 L8422.5 618.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7977.5" y="640" style="">Status::int(11)</text>
+<path d="M7969.5 649.5 L8422.5 649.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7977.5" y="671" style="">Quantity::int(11)</text>
+<path d="M7969.5 680.5 L8422.5 680.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7977.5" y="702" style="">BonusQuantity::int(11)CreatedAt::decimal(13,3)</text>
+<rect x="7692.5" y="1169.5" height="248" width="444" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="7819.5" y="1191" style="">CouponCategoryReward</text>
+<path d="M7692.5 1200.5 L8136.5 1200.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7700.5" y="1222" style="">ID::int(11)</text>
+<path d="M7692.5 1231.5 L8136.5 1231.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7700.5" y="1253" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M7692.5 1262.5 L8136.5 1262.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7700.5" y="1284" style="">UserID::int(11)</text>
+<path d="M7692.5 1293.5 L8136.5 1293.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7700.5" y="1315" style="">CouponCategoryID::int(11)</text>
+<path d="M7692.5 1324.5 L8136.5 1324.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7700.5" y="1346" style="">PurchasePrice::decimal(10,2)</text>
+<path d="M7692.5 1355.5 L8136.5 1355.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7700.5" y="1377" style="">Status::int(10)</text>
+<path d="M7692.5 1386.5 L8136.5 1386.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7700.5" y="1408" style="">EndsAt::decimal(13,3)CreatedAt::decimal(13,3)</text>
+<rect x="5786.5" y="1612.5" height="992" width="463" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="5956.3" y="1634" style="">DeliveryGroup</text>
+<path d="M5786.5 1643.5 L6249.5 1643.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="1665" style="">ID::int(10)</text>
+<path d="M5786.5 1674.5 L6249.5 1674.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="1696" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M5786.5 1705.5 L6249.5 1705.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="1727" style="">DeliveryNumber::varchar(150)</text>
+<path d="M5786.5 1736.5 L6249.5 1736.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="1758" style="">DeliveryCompany::varchar(150)</text>
+<path d="M5786.5 1767.5 L6249.5 1767.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="1789" style="">DeliveryHistory::text</text>
+<path d="M5786.5 1798.5 L6249.5 1798.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="1820" style="">DeliveryRequest::text</text>
+<path d="M5786.5 1829.5 L6249.5 1829.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="1851" style="">RecipientName::varchar(45)</text>
+<path d="M5786.5 1860.5 L6249.5 1860.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="1882" style="">RecipientPhone::varchar(45)</text>
+<path d="M5786.5 1891.5 L6249.5 1891.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="1913" style="">Review::text</text>
+<path d="M5786.5 1922.5 L6249.5 1922.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="1944" style="">ShippingStreet::varchar(200)</text>
+<path d="M5786.5 1953.5 L6249.5 1953.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="1975" style="">ShippingCity::varchar(45)</text>
+<path d="M5786.5 1984.5 L6249.5 1984.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="2006" style="">ShippingProvince::varchar(45)</text>
+<path d="M5786.5 2015.5 L6249.5 2015.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="2037" style="">ShippingZipcode::varchar(45)</text>
+<path d="M5786.5 2046.5 L6249.5 2046.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="2068" style="">CancellationReason::text</text>
+<path d="M5786.5 2077.5 L6249.5 2077.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="2099" style="">Rating::decimal(5,2)</text>
+<path d="M5786.5 2108.5 L6249.5 2108.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="2130" style="">UserID::int(10)</text>
+<path d="M5786.5 2139.5 L6249.5 2139.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="2161" style="">PaymentID::int(10)</text>
+<path d="M5786.5 2170.5 L6249.5 2170.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="2192" style="">DeliveryDate::decimal(13,3)</text>
+<path d="M5786.5 2201.5 L6249.5 2201.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="2223" style="">FulfillmentDate::decimal(13,3)</text>
+<path d="M5786.5 2232.5 L6249.5 2232.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="2254" style="">Status::int(10)</text>
+<path d="M5786.5 2263.5 L6249.5 2263.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="2285" style="">CancellationType::int(10)</text>
+<path d="M5786.5 2294.5 L6249.5 2294.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="2316" style="">TollPenalty::int(10)</text>
+<path d="M5786.5 2325.5 L6249.5 2325.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="2347" style="">DeliveryStatus::int(10)</text>
+<path d="M5786.5 2356.5 L6249.5 2356.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="2378" style="">Category::int(10)</text>
+<path d="M5786.5 2387.5 L6249.5 2387.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="2409" style="">LotteryID::int(10)</text>
+<path d="M5786.5 2418.5 L6249.5 2418.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="2440" style="">ShippingInfoDeadline::decimal(13,3)</text>
+<path d="M5786.5 2449.5 L6249.5 2449.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="2471" style="">TollDiscount::int(10)</text>
+<path d="M5786.5 2480.5 L6249.5 2480.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="2502" style="">TollPayment::int(10)</text>
+<path d="M5786.5 2511.5 L6249.5 2511.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="2533" style="">PreviousTollAmount::int(10)</text>
+<path d="M5786.5 2542.5 L6249.5 2542.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="2564" style="">DeliveryFee::decimal(10,2)</text>
+<path d="M5786.5 2573.5 L6249.5 2573.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5794.5" y="2595" style="">ShippingCountry::int(4)CreatedAt::decimal(13,3)</text>
+<rect x="5402.5" y="2660.5" height="248" width="586" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="5638.5" y="2682" style="">DeliveryItem</text>
+<path d="M5402.5 2691.5 L5988.5 2691.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5410.5" y="2713" style="">ID::int(10)</text>
+<path d="M5402.5 2722.5 L5988.5 2722.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5410.5" y="2744" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M5402.5 2753.5 L5988.5 2753.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5410.5" y="2775" style="">ProductID::int(10)</text>
+<path d="M5402.5 2784.5 L5988.5 2784.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5410.5" y="2806" style="">DeliveryGroupID::int(10)</text>
+<path d="M5402.5 2815.5 L5988.5 2815.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5410.5" y="2837" style="">Quantity::int(10)</text>
+<path d="M5402.5 2846.5 L5988.5 2846.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5410.5" y="2868" style="">ProductReviewDeadline::decimal(13,3)</text>
+<path d="M5402.5 2877.5 L5988.5 2877.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5410.5" y="2899" style="">LotteryReviewDeadline::decimal(13,3)CreatedAt::decimal(13,3)</text>
+<rect x="3552.5" y="1216.5" height="155" width="472" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="3703" y="1238" style="">DeliveryItemOption</text>
+<path d="M3552.5 1247.5 L4024.5 1247.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3560.5" y="1269" style="">ID::int(11)</text>
+<path d="M3552.5 1278.5 L4024.5 1278.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3560.5" y="1300" style="">ProductOptionID::int(11)</text>
+<path d="M3552.5 1309.5 L4024.5 1309.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3560.5" y="1331" style="">CreatedAt::decimal(13,3)</text>
+<path d="M3552.5 1340.5 L4024.5 1340.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3560.5" y="1362" style="">UpdatedAt::decimal(13,3)CreatedAt::decimal(13,3)</text>
+<rect x="1079.5" y="401.5" height="186" width="406" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="1206.5" y="423" style="">FiatExchangeRate</text>
+<path d="M1079.5 432.5 L1485.5 432.5" style="stroke:#33322E;fill:none;"></path>
+<text x="1087.5" y="454" style="">ID::int(11)</text>
+<path d="M1079.5 463.5 L1485.5 463.5" style="stroke:#33322E;fill:none;"></path>
+<text x="1087.5" y="485" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M1079.5 494.5 L1485.5 494.5" style="stroke:#33322E;fill:none;"></path>
+<text x="1087.5" y="516" style="">KRW::float</text>
+<path d="M1079.5 525.5 L1485.5 525.5" style="stroke:#33322E;fill:none;"></path>
+<text x="1087.5" y="547" style="">USD::float</text>
+<path d="M1079.5 556.5 L1485.5 556.5" style="stroke:#33322E;fill:none;"></path>
+<text x="1087.5" y="578" style="">Category::int(11)CreatedAt::decimal(13,3)</text>
+<rect x="6236.5" y="2963.5" height="434" width="463" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="6430" y="2985" style="">LineItem</text>
+<path d="M6236.5 2994.5 L6699.5 2994.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6244.5" y="3016" style="">ID::int(10)</text>
+<path d="M6236.5 3025.5 L6699.5 3025.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6244.5" y="3047" style="">MerchantID::varchar(250)</text>
+<path d="M6236.5 3056.5 L6699.5 3056.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6244.5" y="3078" style="">ProductID::int(10)</text>
+<path d="M6236.5 3087.5 L6699.5 3087.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6244.5" y="3109" style="">CouponID::int(10)</text>
+<path d="M6236.5 3118.5 L6699.5 3118.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6244.5" y="3140" style="">Title::varchar(250)</text>
+<path d="M6236.5 3149.5 L6699.5 3149.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6244.5" y="3171" style="">Amount::decimal(10,2)</text>
+<path d="M6236.5 3180.5 L6699.5 3180.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6244.5" y="3202" style="">TollAmount::int(10)</text>
+<path d="M6236.5 3211.5 L6699.5 3211.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6244.5" y="3233" style="">DiscountAmount::decimal(10,2)</text>
+<path d="M6236.5 3242.5 L6699.5 3242.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6244.5" y="3264" style="">DiscountTollAmount::int(10)</text>
+<path d="M6236.5 3273.5 L6699.5 3273.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6244.5" y="3295" style="">Quantity::int(10)</text>
+<path d="M6236.5 3304.5 L6699.5 3304.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6244.5" y="3326" style="">CreatedAt::decimal(13,3)</text>
+<path d="M6236.5 3335.5 L6699.5 3335.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6244.5" y="3357" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M6236.5 3366.5 L6699.5 3366.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6244.5" y="3388" style="">DeliveryItemID::int(10)CreatedAt::decimal(13,3)</text>
+<rect x="2519.5" y="1014.5" height="558" width="439" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="2705.8" y="1036" style="">Lottery</text>
+<path d="M2519.5 1045.5 L2958.5 1045.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2527.5" y="1067" style="">ID::int(11)</text>
+<path d="M2519.5 1076.5 L2958.5 1076.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2527.5" y="1098" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M2519.5 1107.5 L2958.5 1107.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2527.5" y="1129" style="">ProductID::int(11)</text>
+<path d="M2519.5 1138.5 L2958.5 1138.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2527.5" y="1160" style="">Status::int(11)</text>
+<path d="M2519.5 1169.5 L2958.5 1169.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2527.5" y="1191" style="">StartsAt::decimal(13,3)</text>
+<path d="M2519.5 1200.5 L2958.5 1200.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2527.5" y="1222" style="">EndsAt::decimal(13,3)</text>
+<path d="M2519.5 1231.5 L2958.5 1231.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2527.5" y="1253" style="">MinToll::int(11)</text>
+<path d="M2519.5 1262.5 L2958.5 1262.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2527.5" y="1284" style="">MaxToll::int(11)</text>
+<path d="M2519.5 1293.5 L2958.5 1293.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2527.5" y="1315" style="">MinParticipants::int(11)</text>
+<path d="M2519.5 1324.5 L2958.5 1324.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2527.5" y="1346" style="">MaxParticipants::int(11)</text>
+<path d="M2519.5 1355.5 L2958.5 1355.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2527.5" y="1377" style="">Quantity::int(10)</text>
+<path d="M2519.5 1386.5 L2958.5 1386.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2527.5" y="1408" style="">WinnerCount::int(10)</text>
+<path d="M2519.5 1417.5 L2958.5 1417.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2527.5" y="1439" style="">TollPrice::int(10)</text>
+<path d="M2519.5 1448.5 L2958.5 1448.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2527.5" y="1470" style="">ViewCount::int(10)</text>
+<path d="M2519.5 1479.5 L2958.5 1479.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2527.5" y="1501" style="">ParticipantCount::int(10)</text>
+<path d="M2519.5 1510.5 L2958.5 1510.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2527.5" y="1532" style="">TollAmount::int(10)</text>
+<path d="M2519.5 1541.5 L2958.5 1541.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2527.5" y="1563" style="">WinningTickets::textCreatedAt::decimal(13,3)</text>
+<rect x="2461.5" y="1969.5" height="279" width="515" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="2666.8" y="1991" style="">LotteryUser</text>
+<path d="M2461.5 2000.5 L2976.5 2000.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2469.5" y="2022" style="">ID::int(11)</text>
+<path d="M2461.5 2031.5 L2976.5 2031.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2469.5" y="2053" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M2461.5 2062.5 L2976.5 2062.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2469.5" y="2084" style="">UserID::int(11)</text>
+<path d="M2461.5 2093.5 L2976.5 2093.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2469.5" y="2115" style="">LotteryID::int(11)</text>
+<path d="M2461.5 2124.5 L2976.5 2124.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2469.5" y="2146" style="">Status::int(11)</text>
+<path d="M2461.5 2155.5 L2976.5 2155.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2469.5" y="2177" style="">TollAmount::int(11)</text>
+<path d="M2461.5 2186.5 L2976.5 2186.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2469.5" y="2208" style="">RewardEndsAt::decimal(13,3)</text>
+<path d="M2461.5 2217.5 L2976.5 2217.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2469.5" y="2239" style="">WinningTickets::varchar(500)CreatedAt::decimal(13,3)</text>
+<rect x="1277.5" y="1169.5" height="248" width="377" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="1416.3" y="1191" style="">MassCoupon</text>
+<path d="M1277.5 1200.5 L1654.5 1200.5" style="stroke:#33322E;fill:none;"></path>
+<text x="1285.5" y="1222" style="">ID::int(11)</text>
+<path d="M1277.5 1231.5 L1654.5 1231.5" style="stroke:#33322E;fill:none;"></path>
+<text x="1285.5" y="1253" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M1277.5 1262.5 L1654.5 1262.5" style="stroke:#33322E;fill:none;"></path>
+<text x="1285.5" y="1284" style="">ProductID::int(11)</text>
+<path d="M1277.5 1293.5 L1654.5 1293.5" style="stroke:#33322E;fill:none;"></path>
+<text x="1285.5" y="1315" style="">Status::int(11)</text>
+<path d="M1277.5 1324.5 L1654.5 1324.5" style="stroke:#33322E;fill:none;"></path>
+<text x="1285.5" y="1346" style="">StartsAt::decimal(13,3)</text>
+<path d="M1277.5 1355.5 L1654.5 1355.5" style="stroke:#33322E;fill:none;"></path>
+<text x="1285.5" y="1377" style="">EndsAt::decimal(13,3)</text>
+<path d="M1277.5 1386.5 L1654.5 1386.5" style="stroke:#33322E;fill:none;"></path>
+<text x="1285.5" y="1408" style="">Value::int(11)CreatedAt::decimal(13,3)</text>
+<rect x="5647.5" y="1076.5" height="434" width="387" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="5807.8" y="1098" style="">Payment</text>
+<path d="M5647.5 1107.5 L6034.5 1107.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5655.5" y="1129" style="">ID::int(11)</text>
+<path d="M5647.5 1138.5 L6034.5 1138.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5655.5" y="1160" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M5647.5 1169.5 L6034.5 1169.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5655.5" y="1191" style="">CardID::int(11)</text>
+<path d="M5647.5 1200.5 L6034.5 1200.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5655.5" y="1222" style="">Category::int(11)</text>
+<path d="M5647.5 1231.5 L6034.5 1231.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5655.5" y="1253" style="">Amount::decimal(10,2)</text>
+<path d="M5647.5 1262.5 L6034.5 1262.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5655.5" y="1284" style="">TollAmount::int(11)</text>
+<path d="M5647.5 1293.5 L6034.5 1293.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5655.5" y="1315" style="">PaymentMethod::int(11)</text>
+<path d="M5647.5 1324.5 L6034.5 1324.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5655.5" y="1346" style="">Status::int(11)</text>
+<path d="M5647.5 1355.5 L6034.5 1355.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5655.5" y="1377" style="">Description::text</text>
+<path d="M5647.5 1386.5 L6034.5 1386.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5655.5" y="1408" style="">VBankName::varchar(45)</text>
+<path d="M5647.5 1417.5 L6034.5 1417.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5655.5" y="1439" style="">VBankNumber::varchar(45)</text>
+<path d="M5647.5 1448.5 L6034.5 1448.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5655.5" y="1470" style="">TransactionKey::varchar(255)</text>
+<path d="M5647.5 1479.5 L6034.5 1479.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5655.5" y="1501" style="">UserID::int(11)CreatedAt::decimal(13,3)</text>
+<rect x="2078.5" y="13.5" height="961" width="434" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="2262.3" y="35" style="">Product</text>
+<path d="M2078.5 44.5 L2512.5 44.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="66" style="">ID::int(11)</text>
+<path d="M2078.5 75.5 L2512.5 75.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="97" style="">Description::text</text>
+<path d="M2078.5 106.5 L2512.5 106.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="128" style="">Status::int(11)</text>
+<path d="M2078.5 137.5 L2512.5 137.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="159" style="">Position::int(11)</text>
+<path d="M2078.5 168.5 L2512.5 168.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="190" style="">Category::int(11)</text>
+<path d="M2078.5 199.5 L2512.5 199.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="221" style="">DeliveryMethod::int(11)</text>
+<path d="M2078.5 230.5 L2512.5 230.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="252" style="">MaxDiscount::decimal(10,2)</text>
+<path d="M2078.5 261.5 L2512.5 261.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="283" style="">SourcingOrigin::text</text>
+<path d="M2078.5 292.5 L2512.5 292.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="314" style="">Thumbnail::text</text>
+<path d="M2078.5 323.5 L2512.5 323.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="345" style="">ImageURL::text</text>
+<path d="M2078.5 354.5 L2512.5 354.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="376" style="">Stock::int(11)</text>
+<path d="M2078.5 385.5 L2512.5 385.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="407" style="">Merchant::varchar(45)</text>
+<path d="M2078.5 416.5 L2512.5 416.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="438" style="">Domestic::int(11)</text>
+<path d="M2078.5 447.5 L2512.5 447.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="469" style="">CreatedAt::decimal(13,3)</text>
+<path d="M2078.5 478.5 L2512.5 478.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="500" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M2078.5 509.5 L2512.5 509.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="531" style="">ProductionPrice::decimal(10,2)</text>
+<path d="M2078.5 540.5 L2512.5 540.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="562" style="">SellPrice::decimal(10,2)</text>
+<path d="M2078.5 571.5 L2512.5 571.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="593" style="">FakePrice::decimal(10,2)</text>
+<path d="M2078.5 602.5 L2512.5 602.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="624" style="">MaxSalePrice::decimal(10,2)</text>
+<path d="M2078.5 633.5 L2512.5 633.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="655" style="">Color::int(10)</text>
+<path d="M2078.5 664.5 L2512.5 664.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="686" style="">Width::decimal(10,2)</text>
+<path d="M2078.5 695.5 L2512.5 695.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="717" style="">Length::decimal(10,2)</text>
+<path d="M2078.5 726.5 L2512.5 726.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="748" style="">Height::decimal(10,2)</text>
+<path d="M2078.5 757.5 L2512.5 757.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="779" style="">SourcingCountry::int(10)</text>
+<path d="M2078.5 788.5 L2512.5 788.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="810" style="">Handling::text</text>
+<path d="M2078.5 819.5 L2512.5 819.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="841" style="">QualityAssurance::text</text>
+<path d="M2078.5 850.5 L2512.5 850.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="872" style="">ASContact::text</text>
+<path d="M2078.5 881.5 L2512.5 881.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="903" style="">TollPrice::int(10)</text>
+<path d="M2078.5 912.5 L2512.5 912.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="934" style="">ViewCount::int(10)</text>
+<path d="M2078.5 943.5 L2512.5 943.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2086.5" y="965" style="">CouponLimit::int(11)CreatedAt::decimal(13,3)</text>
+<rect x="1694.5" y="1200.5" height="186" width="377" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="1826" y="1222" style="">ProductImage</text>
+<path d="M1694.5 1231.5 L2071.5 1231.5" style="stroke:#33322E;fill:none;"></path>
+<text x="1702.5" y="1253" style="">ID::int(11)</text>
+<path d="M1694.5 1262.5 L2071.5 1262.5" style="stroke:#33322E;fill:none;"></path>
+<text x="1702.5" y="1284" style="">UpdatedAt::decimal(15,3)</text>
+<path d="M1694.5 1293.5 L2071.5 1293.5" style="stroke:#33322E;fill:none;"></path>
+<text x="1702.5" y="1315" style="">ProductID::int(11)</text>
+<path d="M1694.5 1324.5 L2071.5 1324.5" style="stroke:#33322E;fill:none;"></path>
+<text x="1702.5" y="1346" style="">Status::int(11)</text>
+<path d="M1694.5 1355.5 L2071.5 1355.5" style="stroke:#33322E;fill:none;"></path>
+<text x="1702.5" y="1377" style="">ImageURL::textCreatedAt::decimal(13,3)</text>
+<rect x="3595.5" y="370.5" height="248" width="387" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="3727.3" y="392" style="">ProductOption</text>
+<path d="M3595.5 401.5 L3982.5 401.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3603.5" y="423" style="">ID::int(11)</text>
+<path d="M3595.5 432.5 L3982.5 432.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3603.5" y="454" style="">Name::varchar(45)</text>
+<path d="M3595.5 463.5 L3982.5 463.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3603.5" y="485" style="">Description::text</text>
+<path d="M3595.5 494.5 L3982.5 494.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3603.5" y="516" style="">AddedCost::decimal(10,2)</text>
+<path d="M3595.5 525.5 L3982.5 525.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3603.5" y="547" style="">CreatedAt::decimal(13,3)</text>
+<path d="M3595.5 556.5 L3982.5 556.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3603.5" y="578" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M3595.5 587.5 L3982.5 587.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3603.5" y="609" style="">Status::int(10)CreatedAt::decimal(13,3)</text>
+<rect x="2111.5" y="1200.5" height="186" width="368" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="2233.8" y="1222" style="">ProductPolicy</text>
+<path d="M2111.5 1231.5 L2479.5 1231.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2119.5" y="1253" style="">ID::int(11)</text>
+<path d="M2111.5 1262.5 L2479.5 1262.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2119.5" y="1284" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M2111.5 1293.5 L2479.5 1293.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2119.5" y="1315" style="">ProductID::int(11)</text>
+<path d="M2111.5 1324.5 L2479.5 1324.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2119.5" y="1346" style="">Category::int(11)</text>
+<path d="M2111.5 1355.5 L2479.5 1355.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2119.5" y="1377" style="">Content::textCreatedAt::decimal(13,3)</text>
+<rect x="3057.5" y="1200.5" height="186" width="415" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="3193.8" y="1222" style="">ProductQuestion</text>
+<path d="M3057.5 1231.5 L3472.5 1231.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3065.5" y="1253" style="">ID::int(10)</text>
+<path d="M3057.5 1262.5 L3472.5 1262.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3065.5" y="1284" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M3057.5 1293.5 L3472.5 1293.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3065.5" y="1315" style="">Question::text</text>
+<path d="M3057.5 1324.5 L3472.5 1324.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3065.5" y="1346" style="">Answer::text</text>
+<path d="M3057.5 1355.5 L3472.5 1355.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3065.5" y="1377" style="">ProductID::int(10)CreatedAt::decimal(13,3)</text>
+<rect x="4694.5" y="1169.5" height="248" width="444" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="4854.8" y="1191" style="">ProductReward</text>
+<path d="M4694.5 1200.5 L5138.5 1200.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4702.5" y="1222" style="">ID::int(11)</text>
+<path d="M4694.5 1231.5 L5138.5 1231.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4702.5" y="1253" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M4694.5 1262.5 L5138.5 1262.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4702.5" y="1284" style="">UserID::int(11)</text>
+<path d="M4694.5 1293.5 L5138.5 1293.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4702.5" y="1315" style="">ProductID::int(11)</text>
+<path d="M4694.5 1324.5 L5138.5 1324.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4702.5" y="1346" style="">PurchasePrice::decimal(10,2)</text>
+<path d="M4694.5 1355.5 L5138.5 1355.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4702.5" y="1377" style="">Status::int(10)</text>
+<path d="M4694.5 1386.5 L5138.5 1386.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4702.5" y="1408" style="">EndsAt::decimal(13,3)CreatedAt::decimal(13,3)</text>
+<rect x="3319.5" y="1938.5" height="341" width="387" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="3484.5" y="1960" style="">Review</text>
+<path d="M3319.5 1969.5 L3706.5 1969.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3327.5" y="1991" style="">ID::int(11)</text>
+<path d="M3319.5 2000.5 L3706.5 2000.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3327.5" y="2022" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M3319.5 2031.5 L3706.5 2031.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3327.5" y="2053" style="">UserID::int(11)</text>
+<path d="M3319.5 2062.5 L3706.5 2062.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3327.5" y="2084" style="">ProductID::int(11)</text>
+<path d="M3319.5 2093.5 L3706.5 2093.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3327.5" y="2115" style="">LotteryID::int(11)</text>
+<path d="M3319.5 2124.5 L3706.5 2124.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3327.5" y="2146" style="">Category::int(11)</text>
+<path d="M3319.5 2155.5 L3706.5 2155.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3327.5" y="2177" style="">Status::int(11)</text>
+<path d="M3319.5 2186.5 L3706.5 2186.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3327.5" y="2208" style="">Theme::text</text>
+<path d="M3319.5 2217.5 L3706.5 2217.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3327.5" y="2239" style="">Content::text</text>
+<path d="M3319.5 2248.5 L3706.5 2248.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3327.5" y="2270" style="">Rating::int(11)CreatedAt::decimal(13,3)</text>
+<rect x="3530.5" y="2691.5" height="186" width="387" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="3671.8" y="2713" style="">ReviewImage</text>
+<path d="M3530.5 2722.5 L3917.5 2722.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3538.5" y="2744" style="">ID::int(11)</text>
+<path d="M3530.5 2753.5 L3917.5 2753.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3538.5" y="2775" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M3530.5 2784.5 L3917.5 2784.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3538.5" y="2806" style="">ReviewID::int(11)</text>
+<path d="M3530.5 2815.5 L3917.5 2815.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3538.5" y="2837" style="">ImageURL::text</text>
+<path d="M3530.5 2846.5 L3917.5 2846.5" style="stroke:#33322E;fill:none;"></path>
+<text x="3538.5" y="2868" style="">Status::int(11)CreatedAt::decimal(13,3)</text>
+<rect x="6028.5" y="2644.5" height="279" width="368" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="6160.3" y="2666" style="">ReviewReply</text>
+<path d="M6028.5 2675.5 L6396.5 2675.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6036.5" y="2697" style="">ID::int(11)</text>
+<path d="M6028.5 2706.5 L6396.5 2706.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6036.5" y="2728" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M6028.5 2737.5 L6396.5 2737.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6036.5" y="2759" style="">ReviewID::int(11)</text>
+<path d="M6028.5 2768.5 L6396.5 2768.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6036.5" y="2790" style="">UserID::int(11)</text>
+<path d="M6028.5 2799.5 L6396.5 2799.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6036.5" y="2821" style="">Category::int(11)</text>
+<path d="M6028.5 2830.5 L6396.5 2830.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6036.5" y="2852" style="">Status::int(11)</text>
+<path d="M6028.5 2861.5 L6396.5 2861.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6036.5" y="2883" style="">Theme::varchar(45)</text>
+<path d="M6028.5 2892.5 L6396.5 2892.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6036.5" y="2914" style="">Content::textCreatedAt::decimal(13,3)</text>
+<rect x="4022.5" y="292.5" height="403" width="349" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="4163.8" y="314" style="">Session</text>
+<path d="M4022.5 323.5 L4371.5 323.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4030.5" y="345" style="">ID::int(11)</text>
+<path d="M4022.5 354.5 L4371.5 354.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4030.5" y="376" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M4022.5 385.5 L4371.5 385.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4030.5" y="407" style="">Name::varchar(45)</text>
+<path d="M4022.5 416.5 L4371.5 416.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4030.5" y="438" style="">Nickname::varchar(45)</text>
+<path d="M4022.5 447.5 L4371.5 447.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4030.5" y="469" style="">Email::varchar(45)</text>
+<path d="M4022.5 478.5 L4371.5 478.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4030.5" y="500" style="">Password::varchar(45)</text>
+<path d="M4022.5 509.5 L4371.5 509.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4030.5" y="531" style="">Phone::varchar(45)</text>
+<path d="M4022.5 540.5 L4371.5 540.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4030.5" y="562" style="">Status::int(11)</text>
+<path d="M4022.5 571.5 L4371.5 571.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4030.5" y="593" style="">HashAccount::varchar(45)</text>
+<path d="M4022.5 602.5 L4371.5 602.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4030.5" y="624" style="">TollBalance::int(11)</text>
+<path d="M4022.5 633.5 L4371.5 633.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4030.5" y="655" style="">AuthID::varchar(45)</text>
+<path d="M4022.5 664.5 L4371.5 664.5" style="stroke:#33322E;fill:none;"></path>
+<text x="4030.5" y="686" style="">Token::textCreatedAt::decimal(13,3)</text>
+<rect x="5331.5" y="1969.5" height="279" width="415" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="5463" y="1991" style="">ShareCodeHistory</text>
+<path d="M5331.5 2000.5 L5746.5 2000.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5339.5" y="2022" style="">ID::int(10)</text>
+<path d="M5331.5 2031.5 L5746.5 2031.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5339.5" y="2053" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M5331.5 2062.5 L5746.5 2062.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5339.5" y="2084" style="">GiverID::int(10)</text>
+<path d="M5331.5 2093.5 L5746.5 2093.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5339.5" y="2115" style="">ReceiverID::int(10)</text>
+<path d="M5331.5 2124.5 L5746.5 2124.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5339.5" y="2146" style="">Category::int(11)</text>
+<path d="M5331.5 2155.5 L5746.5 2155.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5339.5" y="2177" style="">RowID::int(10)</text>
+<path d="M5331.5 2186.5 L5746.5 2186.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5339.5" y="2208" style="">Platform::int(10)</text>
+<path d="M5331.5 2217.5 L5746.5 2217.5" style="stroke:#33322E;fill:none;"></path>
+<text x="5339.5" y="2239" style="">PaymentID::int(10)CreatedAt::decimal(13,3)</text>
+<rect x="2737.5" y="2660.5" height="248" width="387" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="2902.5" y="2682" style="">Ticket</text>
+<path d="M2737.5 2691.5 L3124.5 2691.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2745.5" y="2713" style="">ID::int(10)</text>
+<path d="M2737.5 2722.5 L3124.5 2722.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2745.5" y="2744" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M2737.5 2753.5 L3124.5 2753.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2745.5" y="2775" style="">LotteryID::int(10)</text>
+<path d="M2737.5 2784.5 L3124.5 2784.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2745.5" y="2806" style="">UserID::int(10)</text>
+<path d="M2737.5 2815.5 L3124.5 2815.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2745.5" y="2837" style="">LotteryUserID::int(10)</text>
+<path d="M2737.5 2846.5 L3124.5 2846.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2745.5" y="2868" style="">TicketNumber::int(10)</text>
+<path d="M2737.5 2877.5 L3124.5 2877.5" style="stroke:#33322E;fill:none;"></path>
+<text x="2745.5" y="2899" style="">Status::int(10)CreatedAt::decimal(13,3)</text>
+<rect x="7085.5" y="401.5" height="186" width="406" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="7212.5" y="423" style="">TollExchangeRate</text>
+<path d="M7085.5 432.5 L7491.5 432.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7093.5" y="454" style="">ID::int(11)</text>
+<path d="M7085.5 463.5 L7491.5 463.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7093.5" y="485" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M7085.5 494.5 L7491.5 494.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7093.5" y="516" style="">Toll::decimal(10,2)</text>
+<path d="M7085.5 525.5 L7491.5 525.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7093.5" y="547" style="">USD::decimal(10,2)</text>
+<path d="M7085.5 556.5 L7491.5 556.5" style="stroke:#33322E;fill:none;"></path>
+<text x="7093.5" y="578" style="">Category::int(11)CreatedAt::decimal(13,3)</text>
+<rect x="6228.5" y="91.5" height="806" width="491" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="6455" y="113" style="">User</text>
+<path d="M6228.5 122.5 L6719.5 122.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6236.5" y="144" style="">ID::int(11)</text>
+<path d="M6228.5 153.5 L6719.5 153.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6236.5" y="175" style="">Name::varchar(45)</text>
+<path d="M6228.5 184.5 L6719.5 184.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6236.5" y="206" style="">Nickname::varchar(45)</text>
+<path d="M6228.5 215.5 L6719.5 215.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6236.5" y="237" style="">Email::varchar(45)</text>
+<path d="M6228.5 246.5 L6719.5 246.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6236.5" y="268" style="">Password::varchar(45)</text>
+<path d="M6228.5 277.5 L6719.5 277.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6236.5" y="299" style="">Phone::varchar(45)</text>
+<path d="M6228.5 308.5 L6719.5 308.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6236.5" y="330" style="">Status::int(11)</text>
+<path d="M6228.5 339.5 L6719.5 339.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6236.5" y="361" style="">HashAccount::varchar(45)</text>
+<path d="M6228.5 370.5 L6719.5 370.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6236.5" y="392" style="">TollBalance::int(11)</text>
+<path d="M6228.5 401.5 L6719.5 401.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6236.5" y="423" style="">Flag::varchar(45)</text>
+<path d="M6228.5 432.5 L6719.5 432.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6236.5" y="454" style="">CreatedAt::decimal(13,3)</text>
+<path d="M6228.5 463.5 L6719.5 463.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6236.5" y="485" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M6228.5 494.5 L6719.5 494.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6236.5" y="516" style="">Profile::varchar(1000)</text>
+<path d="M6228.5 525.5 L6719.5 525.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6236.5" y="547" style="">OneSignalUserID::varchar(300)</text>
+<path d="M6228.5 556.5 L6719.5 556.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6236.5" y="578" style="">ShareCode::varchar(45)</text>
+<path d="M6228.5 587.5 L6719.5 587.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6236.5" y="609" style="">ShareReward::decimal(5,2)</text>
+<path d="M6228.5 618.5 L6719.5 618.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6236.5" y="640" style="">UnreadEventsLotteryParticipation::int(10)</text>
+<path d="M6228.5 649.5 L6719.5 649.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6236.5" y="671" style="">FirstCouponDeadline::decimal(13,3)</text>
+<path d="M6228.5 680.5 L6719.5 680.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6236.5" y="702" style="">UnreadEventsShopping::int(10)</text>
+<path d="M6228.5 711.5 L6719.5 711.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6236.5" y="733" style="">UnreadEventsCoupon::int(10)</text>
+<path d="M6228.5 742.5 L6719.5 742.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6236.5" y="764" style="">UnreadEventsSharing::int(10)</text>
+<path d="M6228.5 773.5 L6719.5 773.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6236.5" y="795" style="">StripeCustomerKey::varchar(45)</text>
+<path d="M6228.5 804.5 L6719.5 804.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6236.5" y="826" style="">SignInCount::int(10)</text>
+<path d="M6228.5 835.5 L6719.5 835.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6236.5" y="857" style="">EntryPlatform::int(10)</text>
+<path d="M6228.5 866.5 L6719.5 866.5" style="stroke:#33322E;fill:none;"></path>
+<text x="6236.5" y="888" style="">PhoneConfirmed::tinyint(1)CreatedAt::decimal(13,3)</text>
+<rect x="8462.5" y="184.5" height="620" width="453" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="8646.3" y="206" style="">UserGroup</text>
+<path d="M8462.5 215.5 L8915.5 215.5" style="stroke:#33322E;fill:none;"></path>
+<text x="8470.5" y="237" style="">ID::int(10)</text>
+<path d="M8462.5 246.5 L8915.5 246.5" style="stroke:#33322E;fill:none;"></path>
+<text x="8470.5" y="268" style="">UpdatedAt::decimal(13,3)</text>
+<path d="M8462.5 277.5 L8915.5 277.5" style="stroke:#33322E;fill:none;"></path>
+<text x="8470.5" y="299" style="">MinCreatedAt::decimal(13,3)</text>
+<path d="M8462.5 308.5 L8915.5 308.5" style="stroke:#33322E;fill:none;"></path>
+<text x="8470.5" y="330" style="">MaxCreatedAt::decimal(13,3)</text>
+<path d="M8462.5 339.5 L8915.5 339.5" style="stroke:#33322E;fill:none;"></path>
+<text x="8470.5" y="361" style="">MinActiveCoupons::int(10)</text>
+<path d="M8462.5 370.5 L8915.5 370.5" style="stroke:#33322E;fill:none;"></path>
+<text x="8470.5" y="392" style="">MaxActiveCoupons::int(10)</text>
+<path d="M8462.5 401.5 L8915.5 401.5" style="stroke:#33322E;fill:none;"></path>
+<text x="8470.5" y="423" style="">MinCouponPurchases::int(10)</text>
+<path d="M8462.5 432.5 L8915.5 432.5" style="stroke:#33322E;fill:none;"></path>
+<text x="8470.5" y="454" style="">MaxCouponPurchases::int(10)</text>
+<path d="M8462.5 463.5 L8915.5 463.5" style="stroke:#33322E;fill:none;"></path>
+<text x="8470.5" y="485" style="">MinTollBalance::int(10)</text>
+<path d="M8462.5 494.5 L8915.5 494.5" style="stroke:#33322E;fill:none;"></path>
+<text x="8470.5" y="516" style="">MaxTollBalance::int(10)</text>
+<path d="M8462.5 525.5 L8915.5 525.5" style="stroke:#33322E;fill:none;"></path>
+<text x="8470.5" y="547" style="">MinLotteryParticipation::int(10)</text>
+<path d="M8462.5 556.5 L8915.5 556.5" style="stroke:#33322E;fill:none;"></path>
+<text x="8470.5" y="578" style="">MaxLotteryParticipation::int(10)</text>
+<path d="M8462.5 587.5 L8915.5 587.5" style="stroke:#33322E;fill:none;"></path>
+<text x="8470.5" y="609" style="">MinLotteryWins::int(10)</text>
+<path d="M8462.5 618.5 L8915.5 618.5" style="stroke:#33322E;fill:none;"></path>
+<text x="8470.5" y="640" style="">MaxLotteryWins::int(10)</text>
+<path d="M8462.5 649.5 L8915.5 649.5" style="stroke:#33322E;fill:none;"></path>
+<text x="8470.5" y="671" style="">MinShareCodePurchases::int(10)</text>
+<path d="M8462.5 680.5 L8915.5 680.5" style="stroke:#33322E;fill:none;"></path>
+<text x="8470.5" y="702" style="">MaxShareCodePurchases::int(10)</text>
+<path d="M8462.5 711.5 L8915.5 711.5" style="stroke:#33322E;fill:none;"></path>
+<text x="8470.5" y="733" style="">MinSigninCount::int(10)</text>
+<path d="M8462.5 742.5 L8915.5 742.5" style="stroke:#33322E;fill:none;"></path>
+<text x="8470.5" y="764" style="">MaxSigninCount::int(10)</text>
+<path d="M8462.5 773.5 L8915.5 773.5" style="stroke:#33322E;fill:none;"></path>
+<text x="8470.5" y="795" style="">EntryPlatform::int(10)CreatedAt::decimal(13,3)</text></svg>
