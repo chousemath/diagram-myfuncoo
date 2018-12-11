@@ -70,6 +70,16 @@ const Card = `
 ]
 `;
 
+const DeliveryItem = `
+[ DeliveryItem
+  | ProductID int(10)
+  | DeliveryGroupID int(10)
+  | Quantity int(10)
+  | ProductReviewDeadline decimal(13,3)
+  | LotteryReviewDeadline decimal(13,3)
+]
+`;
+
 const DeliveryItemOption = `
 [ DeliveryItemOption
   | DeliveryItemID int(11)
@@ -77,6 +87,16 @@ const DeliveryItemOption = `
   | ID int(11)
   | CreatedAt decimal(13,3)
   | UpdatedAt decimal(13,3)
+]
+`;
+
+const ProductOption = `
+[ ProductOption
+  | ProductID int(11)
+  | Name varchar(45)
+  | Description text
+  | AddedCost decimal(10,2)
+  | Status int(10)
 ]
 `;
 
@@ -119,13 +139,17 @@ const User = `
 `;
 
 const Relationships = `
-[Board] Parent - Child [BoardImage]
-[Board] Parent - Child [BoardReply]
+[Board] p - c [BoardImage]
+[Board] p - c [BoardReply]
 
-[User] Parent - Child [Address]
-[User] Parent - Child [Board]
-[User] Parent - Child [BoardReply]
-[User] Parent - Child [Card]
+[DeliveryItem] p - c [DeliveryItemOption]
+
+[ProductOption] p - c [DeliveryItemOption]
+
+[User] p - c [Address]
+[User] p - c [Board]
+[User] p - c [BoardReply]
+[User] p - c [Card]
 `;
 
 
@@ -136,7 +160,9 @@ src += Board;
 src += BoardImage;
 src += BoardReply;
 src += Card;
+src += DeliveryItem;
 src += DeliveryItemOption;
+src += ProductOption;
 src += User;
 
 src += Relationships;
