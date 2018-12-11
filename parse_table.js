@@ -32,7 +32,7 @@ for (const createStatement of sql.split('CREATE')) {
     table += ` | ${attributeName}::${attributeType}`;
   }
   if (table.indexOf('CreatedAt') === -1) {
-    table += 'CreatedAt::decimal(13,3)';
+    table += ' | CreatedAt::decimal(13,3)';
   }
   table += ']';
   console.log(table);
