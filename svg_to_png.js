@@ -8,5 +8,5 @@ if (process.argv.length < 3) {
 
 fs.readFile(`${process.argv[2]}.svg`)
     .then(svg2png)
-    .then(buffer => fs.writeFile(`${prcoess.argv[2]}.png`, buffer))
+    .then(buffer => fs.writeFile(`${process.argv[2]}.png`, buffer))
     .catch(e => console.error(e));
