@@ -137,6 +137,7 @@ src += BoardImage;
 src += BoardReply;
 src += Card;
 src += DeliveryItemOption;
+src += User;
 
 src += Relationships;
 
