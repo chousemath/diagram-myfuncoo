@@ -20,18 +20,18 @@
 <path d="M401 151.5 L395.5 158 L403.1 161.9 L389 159.4 Z" style="stroke:#33322E;fill:#33322E;"></path>
 <path d="M184.8 5.5 L253.5 29 L184.8 52.5 L116.5 29 Z" style="stroke:#33322E;fill:#eee8d5;"></path>
 <text x="132.8" y="35" style="">Vel > 15mph</text>
-<rect x="13.5" y="84.5" height="31" width="45" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="21.8" y="106" style="">No*</text>
-<rect x="306.5" y="84.5" height="31" width="54" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<ellipse cx="36" cy="100" rx="22.5" ry="15.5" style="stroke:#33322E;fill:#ffc5c5;"></ellipse>
+<text x="21.5" y="106" style="">No*</text>
+<ellipse cx="333.5" cy="100" rx="27" ry="15.5" style="stroke:#33322E;fill:#ceffcf;"></ellipse>
 <text x="314.5" y="106" style="">Yes*</text>
 <rect x="87.5" y="297.5" height="31" width="73" style="stroke:#33322E;fill:#eee8d5;"></rect>
 <text x="95.5" y="319" style="">Ignore</text>
 <path d="M333.5 147.5 L397.5 171 L333.5 194.5 L270.5 171 Z" style="stroke:#33322E;fill:#eee8d5;"></path>
 <text x="286.5" y="177" style="">Accel > 4G</text>
-<rect x="245.5" y="226.5" height="31" width="54" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<ellipse cx="272.3" cy="242" rx="27" ry="15.5" style="stroke:#33322E;fill:#ffc5c5;"></ellipse>
 <text x="253.5" y="248" style="">No**</text>
-<rect x="351.5" y="226.5" height="31" width="64" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="359.8" y="248" style="">Yes**</text>
+<ellipse cx="383" cy="242" rx="32" ry="15.5" style="stroke:#33322E;fill:#ceffcf;"></ellipse>
+<text x="359.5" y="248" style="">Yes**</text>
 <rect x="337.5" y="297.5" height="31" width="92" style="stroke:#33322E;fill:#eee8d5;"></rect>
 <text x="345.5" y="319" style="">Accident</text>
 <rect x="98.5" y="84.5" height="31" width="168" style="stroke:#33322E;fill:#eee8d5;"></rect>
