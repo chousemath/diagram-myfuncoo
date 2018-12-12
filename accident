@@ -1,0 +1,8 @@
+#!/bin/bash
+
+node accident_a1.js > accident_a1.svg
+node svg_to_png.js accident_a1
+
+git add .
+git commit -am "Quick save..."
+git push
