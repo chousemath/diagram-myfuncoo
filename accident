@@ -6,3 +6,11 @@ node svg_to_png.js accident_a1
 git add .
 git commit -am "Quick save..."
 git push
+
+cp ./accident_a1.svg /Volumes/TriveStorage/diagrams/accident/accident_a1.svg
+cp ./accident_a1.png /Volumes/TriveStorage/diagrams/accident/accident_a1.png
+
+cd /Volumes/TriveStorage/diagrams/accident
+git add .
+git commit -am "Quick save..."
+git push
