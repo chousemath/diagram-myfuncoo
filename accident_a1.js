@@ -9,8 +9,8 @@ ${styles._.ignore}
 ${styles._.yes}
 ${styles._.no}
 
-[<choice> Vel >= 0] --:> [<no> No*]
-[<choice> Vel >= 0] -> [<yes> Yes*]
+[<choice> Vel > 0] --:> [<no> No*]
+[<choice> Vel > 0] -> [<yes> Yes*]
 [<no> No*] --:> [<ignore> Ignore]
 [<yes> Yes*] -> [<choice> Accel > 4]
 [<choice> Accel > 4] --:> [<no> *No*]
