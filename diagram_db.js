@@ -6,7 +6,7 @@ const sql =
 
 const associations = [];
 const tableNames = [];
-const mlString = '';
+let mlString = '';
 for (const createStatement of sql.split('CREATE')) {
   if (!createStatement.includes('TABLE')) {
     continue;
