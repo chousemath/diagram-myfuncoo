@@ -6,6 +6,9 @@ node svg_to_png.js accident_a1
 node accident_a2.js > accident_a2.svg
 node svg_to_png.js accident_a2
 
+node accident_a3.js > accident_a3.svg
+node svg_to_png.js accident_a3
+
 git add .
 git commit -am "Quick save..."
 git push
@@ -15,6 +18,9 @@ cp ./accident_a1.png /Volumes/TriveStorage/diagrams/accident/images/accident_a1.
 
 cp ./accident_a2.svg /Volumes/TriveStorage/diagrams/accident/images/accident_a2.svg
 cp ./accident_a2.png /Volumes/TriveStorage/diagrams/accident/images/accident_a2.png
+
+cp ./accident_a3.svg /Volumes/TriveStorage/diagrams/accident/images/accident_a3.svg
+cp ./accident_a3.png /Volumes/TriveStorage/diagrams/accident/images/accident_a3.png
 
 cd /Volumes/TriveStorage/diagrams/accident
 git add .
