@@ -2,7 +2,7 @@ const styles = require('./styles');
 const nomnoml = require('nomnoml');
 
 const src = `
-#padding: 12
+${styles._.header}
 
 ${styles._.accident}
 ${styles._.ignore}
@@ -16,7 +16,7 @@ ${styles._.no}
 [<choice> Accel > 4] --:> [<no> *No*]
 [<choice> Accel > 4] -> [<yes> *Yes*]
 [<no> *No*] --:> [<ignore> Ignore]
-[<yes> *Yes*] -> [<accident> Accident]
+[<yes> *Yes*] -> [<accident> Start Accident Protocol]
 
 [SuddenStop(1)] --:> [<choice> Accel > 4]
 
@@ -28,7 +28,11 @@ ${styles._.no}
 [<choice> Sound >= 160] --:> [<no> *No**]
 [<choice> Sound >= 160] -> [<yes> *Yes**]
 [<no> *No**] --:> [<ignore> Ignore]
-[<yes> *Yes**] -> [<accident> Accident]
+[<yes> *Yes**] -> [<accident> Start Accident Protocol]
+[<accident> Start Accident Protocol] -> [OBD Snapshot (last 15s)]
+[<accident> Start Accident Protocol] -> [BlackBox Snapshot (last 15s)]
+[OBD Snapshot (last 15s)] -> [Send to 119]
+[BlackBox Snapshot (last 15s)] -> [Send to 119]
 `;
 
 // [ Definitions
