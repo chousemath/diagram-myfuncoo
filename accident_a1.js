@@ -1,8 +1,9 @@
+const styles = require('./styles');
 const nomnoml = require('nomnoml');
 
 const src = `
-#.yes: fill=#ceffcf visual=ellipse
-#.no: fill=#ffc5c5 visual=ellipse
+${styles._.yes}
+${styles._.no}
 
 [<choice> Vel > 15mph] -> [<no> No*]
 [<choice> Vel > 15mph] -> [<yes> Yes*]
@@ -17,4 +18,5 @@ const src = `
 [Smartphone Drop (3G)] --:> [<choice> Accel > 4G]
 `;
 
+// console.log(src);
 console.log(nomnoml.renderSvg(src));
