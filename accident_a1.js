@@ -2,17 +2,21 @@ const styles = require('./styles');
 const nomnoml = require('nomnoml');
 
 const src = `
+#padding: 12
+
+${styles._.accident}
+${styles._.ignore}
 ${styles._.yes}
 ${styles._.no}
 
 [<choice> Vel >= 0] --:> [<no> No*]
 [<choice> Vel >= 0] -> [<yes> Yes*]
-[<no> No*] --:> [Ignore]
+[<no> No*] --:> [<ignore> Ignore]
 [<yes> Yes*] -> [<choice> Accel > 4]
 [<choice> Accel > 4] --:> [<no> *No*]
 [<choice> Accel > 4] -> [<yes> *Yes*]
-[<no> *No*] --:> [Ignore]
-[<yes> *Yes*] -> [Accident]
+[<no> *No*] --:> [<ignore> Ignore]
+[<yes> *Yes*] -> [<accident> Accident]
 
 [SuddenStop(1)] --:> [<choice> Accel > 4]
 
@@ -23,8 +27,8 @@ ${styles._.no}
 [Speak(60)] --:> [<choice> Sound >= 160]
 [<choice> Sound >= 160] --:> [<no> *No**]
 [<choice> Sound >= 160] -> [<yes> *Yes**]
-[<no> *No**] --:> [Ignore]
-[<yes> *Yes**] -> [Accident]
+[<no> *No**] --:> [<ignore> Ignore]
+[<yes> *Yes**] -> [<accident> Accident]
 `;
 
 // [ Definitions
