@@ -21,6 +21,6 @@ ${styles._.no}
 
 [<no> No*] --:> [<ignore> No Accident]
 [<no> *No*] --:> [<ignore> No Accident]
-[<yes> *Yes*] -> [<accident> Accident]
+[<yes> *Yes*] -> [<accident> Rear-End Collision]
 `;
 console.log(nomnoml.renderSvg(src));
