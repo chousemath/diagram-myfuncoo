@@ -9,14 +9,14 @@ ${styles._.ignore}
 ${styles._.yes}
 ${styles._.no}
 
-[VehicleA] -> [<choice> Following (B) too closely?]
-[<choice> Following (B) too closely?] --:> [<no> No*]
-[<choice> Following (B) too closely?] -> [<yes> Yes*]
-[<yes> Yes*] -> [<choice> (B) sudden deceleration?]
-[VehicleB] -> [<choice> (B) sudden deceleration?]
+[VehicleA] -> [Following (B) too closely?]
+[Following (B) too closely?] --:> [<no> No*]
+[Following (B) too closely?] -> [<yes> Yes*]
+[<yes> Yes*] -> [(B) sudden deceleration?]
+[VehicleB] -> [(B) sudden deceleration?]
 
-[<choice> (B) sudden deceleration?] --:> [<no> *No*]
-[<choice> (B) sudden deceleration?] -> [<yes> *Yes*]
+[(B) sudden deceleration?] --:> [<no> *No*]
+[(B) sudden deceleration?] -> [<yes> *Yes*]
 
 [<no> No*] --:> [<ignore> No Accident]
 [<no> *No*] --:> [<ignore> No Accident]
