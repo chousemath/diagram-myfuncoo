@@ -8,7 +8,7 @@ const x = {
   `,
   accident: '#.accident: fill=#ff906b bold',
   ignore: '#.ignore: fill=#f2f8f9 bold',
-  condition: '#.condition: fill=#d4fbd3 bold',
+  condition: '#.condition: fill=#edcdff bold',
   yes: '#.yes: fill=#ceffcf visual=ellipse bold',
   no: '#.no: fill=#ffc5c5 visual=ellipse bold',
 };
