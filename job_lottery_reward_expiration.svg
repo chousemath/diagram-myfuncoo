@@ -1,0 +1,26 @@
+<svg width="408" height="598" version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" style="font-weight:bold; font-size:11pt; font-family:'Calibri', Helvetica, sans-serif;;stroke-width:3;stroke-linejoin:round;stroke-linecap:round"><path d="M156 169.5 L129.5 202 L129.5 234.5 L129.5 234.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M123 218.3 L129.5 226.4 L136 218.3 L129.5 234.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M129.5 272.5 L129.5 305 L129.5 337.5 L129.5 337.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M123 321.3 L129.5 329.4 L136 321.3 L129.5 337.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M129.5 375.5 L129.5 408 L129.5 440.5 L129.5 440.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M123 424.3 L129.5 432.4 L136 424.3 L129.5 440.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M129.5 478.5 L129.5 511 L185.3 543.5 L185.3 543.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M168 540.9 L178.3 539.4 L174.6 529.7 L185.3 543.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M250.7 543.5 L306.5 511 L306.5 202 L306.5 202 L280 169.5 L280 169.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M295.3 178 L285.1 175.8 L285.2 186.2 L280 169.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<rect x="63.5" y="17.5" height="152" width="309" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="75.5" y="41.9" style="">LotteryUsers with RewardEndsAt</text>
+<path d="M63.5 55.5 L372.5 55.5" style="stroke:#33322E;fill:none;"></path>
+<text x="75.5" y="79.9" style="">Status is LotteryLoser</text>
+<path d="M63.5 93.5 L372.5 93.5" style="stroke:#33322E;fill:none;"></path>
+<text x="75.5" y="117.9" style="">RewardEndsAt != 0</text>
+<path d="M63.5 131.5 L372.5 131.5" style="stroke:#33322E;fill:none;"></path>
+<text x="75.5" y="155.9" style="">RewardEndsAt <= now</text>
+<rect x="17.5" y="234.5" height="38" width="224" style="stroke:#33322E;fill:#ff906b;"></rect>
+<text x="29.5" y="258.9" style="">Set RewardEndsAt to 0</text>
+<rect x="22.5" y="337.5" height="38" width="214" style="stroke:#33322E;fill:#ff906b;"></rect>
+<text x="34.5" y="361.9" style="">Set UpdatedAt to now</text>
+<rect x="67.5" y="440.5" height="38" width="124" style="stroke:#33322E;fill:#f2f8f9;"></rect>
+<text x="79.5" y="464.9" style="">Wait 1 min</text>
+<rect x="44.5" y="543.5" height="38" width="347" style="stroke:#33322E;fill:#edcdff;"></rect>
+<text x="56.5" y="567.9" style="">Get LotteryUsers with RewardEndsAt</text></svg>
