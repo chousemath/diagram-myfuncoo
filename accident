@@ -18,6 +18,9 @@ node svg_to_png.js accident_case_a2
 node accident_case_a3.js > accident_case_a3.svg
 node svg_to_png.js accident_case_a3
 
+node speech_pattern.js > speech_pattern.svg
+node speech_pattern.js speech_pattern
+
 git add .
 git commit -am "Quick save..."
 git push
@@ -39,6 +42,9 @@ cp ./accident_case_a2.png /Volumes/TriveStorage/diagrams/accident/images/acciden
 
 cp ./accident_case_a3.svg /Volumes/TriveStorage/diagrams/accident/images/accident_case_a3.svg
 cp ./accident_case_a3.png /Volumes/TriveStorage/diagrams/accident/images/accident_case_a3.png
+
+cp ./speech_pattern.svg /Volumes/TriveStorage/diagrams/accident/images/speech_pattern.svg
+cp ./speech_pattern.png /Volumes/TriveStorage/diagrams/accident/images/speech_pattern.png
 
 cd /Volumes/TriveStorage/diagrams/accident
 git add .
