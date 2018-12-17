@@ -6,6 +6,9 @@ node svg_to_png.js diagram_db
 node job_coupon_expiration.js > job_coupon_expiration.svg
 node svg_to_png.js job_coupon_expiration
 
+node job_lottery_activation.js > job_lottery_activation.svg
+node svg_to_png.js job_lottery_activation
+
 git add .
 git commit -am "Quick save..."
 git push
@@ -15,6 +18,9 @@ cp ./diagram_db.png /Users/jo/go/src/github.com/chousemath/myfuncoo/diagram_db.p
 
 cp ./job_coupon_expiration.svg /Users/jo/go/src/github.com/chousemath/myfuncoo/job_coupon_expiration.svg
 cp ./job_coupon_expiration.png /Users/jo/go/src/github.com/chousemath/myfuncoo/job_coupon_expiration.png
+
+cp ./job_lottery_activation.svg /Users/jo/go/src/github.com/chousemath/myfuncoo/job_lottery_activation.svg
+cp ./job_lottery_activation.png /Users/jo/go/src/github.com/chousemath/myfuncoo/job_lottery_activation.png
 
 cd /Users/jo/go/src/github.com/chousemath/myfuncoo
 ./save

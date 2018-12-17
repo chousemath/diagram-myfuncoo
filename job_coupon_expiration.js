@@ -16,8 +16,8 @@ ${styles._.no}
   | EndsAt <= now
   ]
   
-[Active Coupons] -> [<accident> Set to inactive]
-[<accident> Set to inactive] -> [<accident> Set EndsAt to 0]
+[Active Coupons] -> [<accident> Set Status to inactive]
+[<accident> Set Status to inactive] -> [<accident> Set EndsAt to 0]
 [<accident> Set EndsAt to 0] -> [<accident> Set UpdatedAt to now]
 [<accident> Set UpdatedAt to now] -> [<ignore> Wait 1 min]
 [Wait 1 min] -> [<condition> Get active coupons]

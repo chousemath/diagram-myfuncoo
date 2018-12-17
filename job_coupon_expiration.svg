@@ -1,30 +1,30 @@
-<svg width="324.5" height="701" version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" style="font-weight:bold; font-size:11pt; font-family:'Calibri', Helvetica, sans-serif;;stroke-width:3;stroke-linejoin:round;stroke-linecap:round"><path d="M150.3 169.5 L124.5 202 L124.5 234.5 L124.5 234.5 " style="stroke:#33322E;fill:none;"></path>
-<path d="M118 218.3 L124.5 226.4 L131 218.3 L124.5 234.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M124.5 272.5 L124.5 305 L124.5 337.5 L124.5 337.5 " style="stroke:#33322E;fill:none;"></path>
-<path d="M118 321.3 L124.5 329.4 L131 321.3 L124.5 337.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M124.5 375.5 L124.5 408 L124.5 440.5 L124.5 440.5 " style="stroke:#33322E;fill:none;"></path>
-<path d="M118 424.3 L124.5 432.4 L131 424.3 L124.5 440.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M124.5 478.5 L124.5 511 L124.5 543.5 L124.5 543.5 " style="stroke:#33322E;fill:none;"></path>
-<path d="M118 527.3 L124.5 535.4 L131 527.3 L124.5 543.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M124.5 581.5 L124.5 614 L178.8 646.5 L178.8 646.5 " style="stroke:#33322E;fill:none;"></path>
-<path d="M161.5 643.7 L171.8 642.3 L168.2 632.6 L178.8 646.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M242.2 646.5 L296.5 614 L296.5 202 L296.5 202 L270.7 169.5 L270.7 169.5 " style="stroke:#33322E;fill:none;"></path>
-<path d="M285.9 178.2 L275.8 175.9 L275.7 186.3 L270.7 169.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<rect x="122.5" y="17.5" height="152" width="176" style="stroke:#33322E;fill:#eee8d5;"></rect>
-<text x="144" y="41.9" style="">Active Coupons</text>
-<path d="M122.5 55.5 L298.5 55.5" style="stroke:#33322E;fill:none;"></path>
-<text x="134.5" y="79.9" style="">Status is active</text>
-<path d="M122.5 93.5 L298.5 93.5" style="stroke:#33322E;fill:none;"></path>
-<text x="134.5" y="117.9" style="">EndsAt != 0</text>
-<path d="M122.5 131.5 L298.5 131.5" style="stroke:#33322E;fill:none;"></path>
-<text x="134.5" y="155.9" style="">EndsAt <= now</text>
-<rect x="41.5" y="234.5" height="38" width="167" style="stroke:#33322E;fill:#ff906b;"></rect>
-<text x="53.5" y="258.9" style="">Set to inactive</text>
-<rect x="41.5" y="337.5" height="38" width="167" style="stroke:#33322E;fill:#ff906b;"></rect>
-<text x="53.5" y="361.9" style="">Set EndsAt to 0</text>
-<rect x="17.5" y="440.5" height="38" width="214" style="stroke:#33322E;fill:#ff906b;"></rect>
-<text x="29.5" y="464.9" style="">Set UpdatedAt to now</text>
-<rect x="62.5" y="543.5" height="38" width="124" style="stroke:#33322E;fill:#f2f8f9;"></rect>
-<text x="74.5" y="567.9" style="">Wait 1 min</text>
-<rect x="113.5" y="646.5" height="38" width="195" style="stroke:#33322E;fill:#edcdff;"></rect>
-<text x="125.5" y="670.9" style="">Get active coupons</text></svg>
+<svg width="338.75" height="701" version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" style="font-weight:bold; font-size:11pt; font-family:'Calibri', Helvetica, sans-serif;;stroke-width:3;stroke-linejoin:round;stroke-linecap:round"><path d="M161.2 169.5 L134 202 L134 234.5 L134 234.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M127.5 218.3 L134 226.4 L140.5 218.3 L134 234.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M134 272.5 L134 305 L134 337.5 L134 337.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M127.5 321.3 L134 329.4 L140.5 321.3 L134 337.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M134 375.5 L134 408 L134 440.5 L134 440.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M127.5 424.3 L134 432.4 L140.5 424.3 L134 440.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M134 478.5 L134 511 L134 543.5 L134 543.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M127.5 527.3 L134 535.4 L140.5 527.3 L134 543.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M134 581.5 L134 614 L191.3 646.5 L191.3 646.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M173.9 644.1 L184.2 642.5 L180.3 632.8 L191.3 646.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M258.2 646.5 L315.5 614 L315.5 202 L315.5 202 L288.3 169.5 L288.3 169.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M303.7 177.8 L293.5 175.7 L293.8 186.1 L288.3 169.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<rect x="136.5" y="17.5" height="152" width="176" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="158" y="41.9" style="">Active Coupons</text>
+<path d="M136.5 55.5 L312.5 55.5" style="stroke:#33322E;fill:none;"></path>
+<text x="148.5" y="79.9" style="">Status is active</text>
+<path d="M136.5 93.5 L312.5 93.5" style="stroke:#33322E;fill:none;"></path>
+<text x="148.5" y="117.9" style="">EndsAt != 0</text>
+<path d="M136.5 131.5 L312.5 131.5" style="stroke:#33322E;fill:none;"></path>
+<text x="148.5" y="155.9" style="">EndsAt <= now</text>
+<rect x="17.5" y="234.5" height="38" width="233" style="stroke:#33322E;fill:#ff906b;"></rect>
+<text x="29.5" y="258.9" style="">Set Status to inactive</text>
+<rect x="50.5" y="337.5" height="38" width="167" style="stroke:#33322E;fill:#ff906b;"></rect>
+<text x="62.5" y="361.9" style="">Set EndsAt to 0</text>
+<rect x="27.5" y="440.5" height="38" width="214" style="stroke:#33322E;fill:#ff906b;"></rect>
+<text x="39.5" y="464.9" style="">Set UpdatedAt to now</text>
+<rect x="72.5" y="543.5" height="38" width="124" style="stroke:#33322E;fill:#f2f8f9;"></rect>
+<text x="84.5" y="567.9" style="">Wait 1 min</text>
+<rect x="127.5" y="646.5" height="38" width="195" style="stroke:#33322E;fill:#edcdff;"></rect>
+<text x="139.5" y="670.9" style="">Get active coupons</text></svg>

@@ -1,0 +1,24 @@
+<svg width="339" height="560" version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" style="font-weight:bold; font-size:11pt; font-family:'Calibri', Helvetica, sans-serif;;stroke-width:3;stroke-linejoin:round;stroke-linecap:round"><path d="M155.7 131.5 L124.5 164 L124.5 196.5 L124.5 196.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M118 180.3 L124.5 188.4 L131 180.3 L124.5 196.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M124.5 234.5 L124.5 267 L124.5 299.5 L124.5 299.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M118 283.3 L124.5 291.4 L131 283.3 L124.5 299.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M124.5 337.5 L124.5 370 L124.5 402.5 L124.5 402.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M118 386.3 L124.5 394.4 L131 386.3 L124.5 402.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M124.5 440.5 L124.5 473 L178.8 505.5 L178.8 505.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M161.5 502.7 L171.8 501.3 L168.2 491.6 L178.8 505.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M242.2 505.5 L296.5 473 L296.5 164 L296.5 164 L265.3 131.5 L265.3 131.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M281.2 138.7 L270.9 137.4 L271.8 147.7 L265.3 131.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<rect x="117.5" y="17.5" height="114" width="186" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="129.8" y="41.9" style="">Pending Lotteries</text>
+<path d="M117.5 55.5 L303.5 55.5" style="stroke:#33322E;fill:none;"></path>
+<text x="129.5" y="79.9" style="">Status is pending</text>
+<path d="M117.5 93.5 L303.5 93.5" style="stroke:#33322E;fill:none;"></path>
+<text x="129.5" y="117.9" style="">StartsAt <= now</text>
+<rect x="17.5" y="196.5" height="38" width="214" style="stroke:#33322E;fill:#ff906b;"></rect>
+<text x="29.5" y="220.9" style="">Set Status to active</text>
+<rect x="17.5" y="299.5" height="38" width="214" style="stroke:#33322E;fill:#ff906b;"></rect>
+<text x="29.5" y="323.9" style="">Set UpdatedAt to now</text>
+<rect x="62.5" y="402.5" height="38" width="124" style="stroke:#33322E;fill:#f2f8f9;"></rect>
+<text x="74.5" y="426.9" style="">Wait 1 min</text>
+<rect x="98.5" y="505.5" height="38" width="224" style="stroke:#33322E;fill:#edcdff;"></rect>
+<text x="110.5" y="529.9" style="">Get pending lotteries</text></svg>
