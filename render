@@ -4,7 +4,7 @@ node diagram_db.js > diagram_db.svg
 node svg_to_png.js diagram_db
 
 node job_coupon_expiration.js > job_coupon_expiration.svg
-node job_coupon_expiration.js job_coupon_expiration
+node svg_to_png.js job_coupon_expiration
 
 git add .
 git commit -am "Quick save..."
