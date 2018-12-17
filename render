@@ -1,9 +1,10 @@
 #!/bin/bash
 
-echo "Generating the database diagram svg..."
 node diagram_db.js > diagram_db.svg
-echo "Generating the database diagram png..."
 node svg_to_png.js diagram_db
+
+node job_coupon_expiration.js > job_coupon_expiration.svg
+node job_coupon_expiration.js job_coupon_expiration
 
 git add .
 git commit -am "Quick save..."
@@ -11,6 +12,9 @@ git push
 
 cp ./diagram_db.svg /Users/jo/go/src/github.com/chousemath/myfuncoo/diagram_db.svg
 cp ./diagram_db.png /Users/jo/go/src/github.com/chousemath/myfuncoo/diagram_db.png
+
+cp ./job_coupon_expiration.svg /Users/jo/go/src/github.com/chousemath/myfuncoo/job_coupon_expiration.svg
+cp ./job_coupon_expiration.png /Users/jo/go/src/github.com/chousemath/myfuncoo/job_coupon_expiration.png
 
 cd /Users/jo/go/src/github.com/chousemath/myfuncoo
 ./save
