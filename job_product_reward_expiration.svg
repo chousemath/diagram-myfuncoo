@@ -1,0 +1,24 @@
+<svg width="372.25" height="560" version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" style="font-weight:bold; font-size:11pt; font-family:'Calibri', Helvetica, sans-serif;;stroke-width:3;stroke-linejoin:round;stroke-linecap:round"><path d="M167 131.5 L134 164 L134 196.5 L134 196.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M127.5 180.3 L134 188.4 L140.5 180.3 L134 196.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M134 234.5 L134 267 L134 299.5 L134 299.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M127.5 283.3 L134 291.4 L140.5 283.3 L134 299.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M134 337.5 L134 370 L134 402.5 L134 402.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M127.5 386.3 L134 394.4 L140.5 386.3 L134 402.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M134 440.5 L134 473 L191.3 505.5 L191.3 505.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M173.9 503.1 L184.2 501.5 L180.3 491.8 L191.3 505.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M258.2 505.5 L315.5 473 L315.5 164 L315.5 164 L282.5 131.5 L282.5 131.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M298.7 138.3 L288.3 137.2 L289.6 147.5 L282.5 131.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<rect x="112.5" y="17.5" height="114" width="224" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="124.8" y="41.9" style="">Active ProductRewards</text>
+<path d="M112.5 55.5 L336.5 55.5" style="stroke:#33322E;fill:none;"></path>
+<text x="124.5" y="79.9" style="">Status is Active</text>
+<path d="M112.5 93.5 L336.5 93.5" style="stroke:#33322E;fill:none;"></path>
+<text x="124.5" y="117.9" style="">EndsAt <= now</text>
+<rect x="17.5" y="196.5" height="38" width="233" style="stroke:#33322E;fill:#ff906b;"></rect>
+<text x="29.5" y="220.9" style="">Set Status to Inactive</text>
+<rect x="27.5" y="299.5" height="38" width="214" style="stroke:#33322E;fill:#ff906b;"></rect>
+<text x="39.5" y="323.9" style="">Set UpdatedAt to now</text>
+<rect x="72.5" y="402.5" height="38" width="124" style="stroke:#33322E;fill:#f2f8f9;"></rect>
+<text x="84.5" y="426.9" style="">Wait 1 min</text>
+<rect x="93.5" y="505.5" height="38" width="262" style="stroke:#33322E;fill:#edcdff;"></rect>
+<text x="105.5" y="529.9" style="">Get Active ProductRewards</text></svg>
