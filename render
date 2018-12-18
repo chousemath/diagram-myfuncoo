@@ -18,6 +18,9 @@ node svg_to_png.js job_lottery_reward_expiration
 node job_product_reward_expiration.js > job_product_reward_expiration.svg
 node svg_to_png.js job_product_reward_expiration
 
+node job_tutorial_deadline.js > job_tutorial_deadline.svg
+node svg_to_png.js job_tutorial_deadline
+
 git add .
 git commit -am "Quick save..."
 git push
@@ -39,6 +42,9 @@ cp ./job_lottery_reward_expiration.png /Users/jo/go/src/github.com/chousemath/my
 
 cp ./job_product_reward_expiration.svg /Users/jo/go/src/github.com/chousemath/myfuncoo/job_product_reward_expiration.svg
 cp ./job_product_reward_expiration.png /Users/jo/go/src/github.com/chousemath/myfuncoo/job_product_reward_expiration.png
+
+cp ./job_tutorial_deadline.svg /Users/jo/go/src/github.com/chousemath/myfuncoo/job_tutorial_deadline.svg
+cp ./job_tutorial_deadline.png /Users/jo/go/src/github.com/chousemath/myfuncoo/job_tutorial_deadline.png
 
 cd /Users/jo/go/src/github.com/chousemath/myfuncoo
 ./save
